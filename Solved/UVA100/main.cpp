@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     int a, b;
     while (cin >> a >> b){
-        int maxLoops = 0;
+        int maxLoops = 1;
         cout << a << " " << b << " ";
         if (a > b){
             int temp = a;
