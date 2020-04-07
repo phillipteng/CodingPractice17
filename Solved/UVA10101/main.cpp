@@ -35,19 +35,25 @@ int main(){
         }
         input = input/100;
         int iterator = 0; 
+        bool firstKuti = true; 
         while(input > 0){
+            space = " ";
             if (input%sizes[iterator]!=0){
-                space = " ";
                 myStack.push(space.append(to_string(input%sizes[iterator]).append(names[iterator])));
             }
-
+            else if (iterator == 3 && firstKuti){
+                firstKuti = false;
+                myStack.push(" kuti");
+            }
             input = input/sizes[iterator];
+
             if (iterator == 3){
                 iterator = 0;
             }
             else {
                 ++iterator;
             }
+            
         }
         while(!myStack.empty()){
             cout << myStack.top();
