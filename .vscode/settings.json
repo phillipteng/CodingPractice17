@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "utility": "cpp",
+        "unordered_set": "cpp"
+    }
+}

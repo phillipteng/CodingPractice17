@@ -1,0 +1,3 @@
+/Users/phillip/CLionProjects/CodingPractice17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/phillip/CLionProjects/CodingPractice17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/phillip/CLionProjects/CodingPractice17/cmake-build-debug/CMakeFiles/CodingPractice17.dir
