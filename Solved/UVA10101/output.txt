@@ -490,7 +490,7 @@
  490. 86
  491. 85
  492. 54
- 493.
+ 493. 0
  494. 4 shata 1
  495. 2 shata 28
  496. 3 shata 25
@@ -1027,58 +1027,58 @@
 1027. 10 lakh
 1028. 1 kuti
 1029. 10 kuti
-1030. 1 shata
-1031. 1 hajar
-1032. 10 hajar
-1033. 1 lakh
-1034. 10 lakh
-1035. 1 kuti
+1030. 1 shata kuti
+1031. 1 hajar kuti
+1032. 10 hajar kuti
+1033. 1 lakh kuti
+1034. 10 lakh kuti
+1035. 1 kuti kuti
 1036. 2 kuti 40 lakh 3 shata 9 kuti 11 lakh 16 hajar 5 shata 57
-1037. 7 kuti 56 lakh 1 shata 65 hajar 7 shata 50
+1037. 7 kuti 56 lakh 1 shata kuti 65 hajar 7 shata 50
 1038. 4 kuti 7 hajar 40 kuti 20 lakh 7 shata 90
 1039. 2 kuti 40 kuti 2 lakh 3 shata
 1040. 4 kuti 6 lakh 70 kuti 61 hajar 5 shata 40
 1041. 9 kuti 80 hajar 2 shata 73 kuti 7 lakh 20 hajar 8
-1042. 6 kuti 2 lakh 1 shata
+1042. 6 kuti kuti 2 lakh 1 shata
 1043. 7 kuti 1 lakh 80 hajar 88 kuti 4 hajar 3 shata
 1044. 6 kuti 39 hajar 26 kuti 90
 1045. 4 kuti 60 lakh 19 hajar 2 kuti 4 lakh 1 shata
-1046. 6 kuti 9 lakh 10 hajar 6 shata 38 lakh 1 hajar 90
+1046. 6 kuti 9 lakh 10 hajar 6 shata kuti 38 lakh 1 hajar 90
 1047. 3 kuti 40 lakh 9 shata 4 kuti
-1048. 5 kuti 6 lakh 5 shata 90 lakh 8 hajar 1 shata 40
-1049. 8 kuti 40 lakh 85 hajar 39 hajar 1 shata
-1050. 2 kuti 50 lakh 75 hajar 1 shata 30 lakh 4 hajar 67
-1051. 7 kuti 10 lakh 5 shata 17
+1048. 5 kuti 6 lakh 5 shata kuti 90 lakh 8 hajar 1 shata 40
+1049. 8 kuti 40 lakh 85 hajar kuti 39 hajar 1 shata
+1050. 2 kuti 50 lakh 75 hajar 1 shata kuti 30 lakh 4 hajar 67
+1051. 7 kuti kuti 10 lakh 5 shata 17
 1052. 3 kuti 6 lakh 54 hajar 7 shata 90 kuti 70 hajar 7 shata
 1053. 7 kuti 70 lakh 6 shata 4 kuti 8 hajar 75
 1054. 1 kuti 40 lakh 88 kuti 46 lakh 97 hajar 90
-1055. 4 kuti 6 lakh 1 hajar 70
+1055. 4 kuti 6 lakh kuti 1 hajar 70
 1056. 1 kuti 9 hajar 4 kuti 43 lakh 10 hajar 20
-1057. 5 kuti 7 lakh 34 hajar 92 lakh 10 hajar 7 shata 4
+1057. 5 kuti 7 lakh 34 hajar kuti 92 lakh 10 hajar 7 shata 4
 1058. 1 kuti 74 lakh 5 hajar 94 kuti 20 hajar 1 shata
 1059. 9 kuti 3 lakh 80 hajar 4 shata 56 kuti 5 hajar 9 shata
 1060. 1 kuti 4 shata 10 kuti 20 hajar 2 shata 84
 1061. 3 kuti 1 shata 10 kuti 39 lakh 8 hajar 3
 1062. 7 kuti 4 lakh 1 hajar 3 shata 50 kuti 3 lakh 70 hajar 30
-1063. 1 kuti 4 lakh 40 hajar 6 shata 60 lakh 2 hajar
+1063. 1 kuti 4 lakh 40 hajar 6 shata kuti 60 lakh 2 hajar
 1064. 6 kuti 10 lakh 4 kuti 49 lakh 70 hajar 8 shata 68
 1065. 6 kuti 37 hajar 82 kuti 7 hajar
-1066. 8 kuti 17 lakh 10 lakh 1 shata 99
-1067. 6 kuti 40 lakh 8 hajar 13 lakh 91
-1068. 1 kuti 8 lakh 9 shata 96 lakh 8 shata 97
-1069. 1 kuti 1 shata 2 hajar 3
+1066. 8 kuti 17 lakh kuti 10 lakh 1 shata 99
+1067. 6 kuti 40 lakh 8 hajar kuti 13 lakh 91
+1068. 1 kuti 8 lakh 9 shata kuti 96 lakh 8 shata 97
+1069. 1 kuti 1 shata kuti 2 hajar 3
 1070. 2 kuti 43 lakh 1 hajar 20 kuti 44 hajar 9 shata
 1071. 6 kuti 71 lakh 10 hajar 3 shata 29 kuti 49 lakh 60 hajar
-1072. 1 kuti 9 shata 28 lakh 9 shata
+1072. 1 kuti 9 shata kuti 28 lakh 9 shata
 1073. 8 kuti 90 lakh 2 kuti 41 hajar 2
 1074. 1 kuti 22 lakh 1 hajar 7 kuti 33 lakh 72 hajar
 1075. 8 kuti 75 lakh 30 kuti 59 lakh 14 hajar
 1076. 7 kuti 10 lakh 8 shata 6 kuti 2 hajar 55
 1077. 2 kuti 3 lakh 4 hajar 2 shata 3 kuti 9 hajar
 1078. 2 kuti 4 lakh 3 kuti 70 lakh 3 hajar
-1079. 4 kuti 7 shata 56 lakh
+1079. 4 kuti 7 shata kuti 56 lakh
 1080. 7 kuti 61 lakh 2 kuti 3 shata
-1081. 6 kuti 7 lakh 50 hajar 55 lakh 25 hajar 87
+1081. 6 kuti 7 lakh 50 hajar kuti 55 lakh 25 hajar 87
 1082. 4 kuti 1 hajar 7 shata 6 kuti 2 hajar
 1083. 7 kuti 5 lakh 2 shata 10 kuti 40 lakh 7 shata 30
 1084. 4 kuti 60 lakh 8 shata 10 kuti 60 lakh 80 hajar 1 shata 10
@@ -1087,15 +1087,15 @@
 1087. 4 kuti 32 lakh 9 kuti 37 lakh 7 shata 83
 1088. 8 kuti 30 lakh 79 hajar 7 kuti 10 lakh 72 hajar 90
 1089. 8 kuti 10 lakh 5 hajar 88 kuti 20 hajar 1 shata 1
-1090. 6 kuti 40 lakh 7 shata 2 hajar 4 shata 60
+1090. 6 kuti 40 lakh 7 shata kuti 2 hajar 4 shata 60
 1091. 9 kuti 40 lakh 40 hajar 1 shata 94 kuti
 1092. 3 kuti 87 hajar 3 kuti 98 hajar 6 shata 3
-1093. 1 kuti 19 lakh 81 hajar 7 shata 46 hajar 9
+1093. 1 kuti 19 lakh 81 hajar 7 shata kuti 46 hajar 9
 1094. 5 kuti 49 lakh 70 hajar 8 shata 4 kuti 8 lakh 90 hajar 5
 1095. 6 kuti 30 lakh 80 hajar 3 shata 9 kuti 63 lakh 7 hajar 5
-1096. 7 kuti 51 lakh 85 hajar 1 shata 9 lakh 9 hajar 8 shata
+1096. 7 kuti 51 lakh 85 hajar 1 shata kuti 9 lakh 9 hajar 8 shata
 1097. 3 kuti 10 lakh 9 hajar 6 kuti 97 hajar 1 shata 70
-1098. 9 kuti 5 hajar 1 shata 6 lakh 7 hajar 59
+1098. 9 kuti 5 hajar 1 shata kuti 6 lakh 7 hajar 59
 1099. 2 kuti 90 lakh 10 hajar 80 kuti 52 lakh 4 hajar 7 shata
 1100. 9 kuti 10 lakh 46 kuti 57 lakh 7
 1101. 5 kuti 12 lakh 7 shata 71 kuti 14 lakh 30 hajar 4 shata
@@ -1103,37 +1103,37 @@
 1103. 8 kuti 2 kuti 24 lakh 6 hajar 7 shata 85
 1104. 5 kuti 90 lakh 7 kuti 93 lakh
 1105. 5 kuti 50 hajar 70 kuti 6 lakh 40 hajar 54
-1106. 5 kuti 50 lakh 4 hajar 9 shata 80 lakh 70 hajar 6 shata 2
-1107. 3 kuti 79 lakh 60 hajar 20
+1106. 5 kuti 50 lakh 4 hajar 9 shata kuti 80 lakh 70 hajar 6 shata 2
+1107. 3 kuti 79 lakh 60 hajar kuti 20
 1108. 3 kuti 50 lakh 50 hajar 80 kuti 50 lakh 5
 1109. 1 kuti 1 lakh 7 shata 82 kuti 10 hajar
-1110. 6 kuti 1 hajar 6 shata 87 lakh 4 shata
+1110. 6 kuti 1 hajar 6 shata kuti 87 lakh 4 shata
 1111. 5 kuti 90 hajar 4 shata 10 kuti 2 shata
 1112. 6 kuti 96 lakh 46 hajar 5 kuti 70 lakh 2
 1113. 8 kuti 23 lakh 3 hajar 8 shata 4 kuti 6 lakh 6 hajar 7 shata 56
 1114. 8 kuti 50 hajar 30 kuti 6 lakh 49 hajar 7
-1115. 2 kuti 90 lakh 90 hajar 86 lakh 4 hajar
-1116. 4 kuti 10 lakh 87 hajar 74 lakh 80
-1117. 7 kuti 50 lakh 30 hajar 19 lakh 3 hajar 4
+1115. 2 kuti 90 lakh 90 hajar kuti 86 lakh 4 hajar
+1116. 4 kuti 10 lakh 87 hajar kuti 74 lakh 80
+1117. 7 kuti 50 lakh 30 hajar kuti 19 lakh 3 hajar 4
 1118. 4 kuti 8 lakh 60 hajar 43 kuti 70 lakh 4 shata 20
 1119. 4 kuti 6 shata 8 kuti 8 lakh 2 hajar 3 shata 80
-1120. 6 kuti 7 lakh 7 hajar 8 shata 4 lakh 3 shata
-1121. 8 kuti 9 shata 9 lakh 70 hajar
+1120. 6 kuti 7 lakh 7 hajar 8 shata kuti 4 lakh 3 shata
+1121. 8 kuti 9 shata kuti 9 lakh 70 hajar
 1122. 2 kuti 5 lakh 9 shata 60 kuti 36 lakh 13 hajar 7 shata 6
 1123. 4 kuti 5 lakh 8 shata 30 kuti 7 lakh 80 hajar 4 shata 6
 1124. 3 kuti 20 lakh 70 hajar 6 shata 60 kuti 1 lakh 7 hajar
 1125. 6 kuti 50 kuti 80 lakh 70 hajar 23
 1126. 4 kuti 3 shata 10 kuti 4 lakh 8 shata 70
 1127. 9 kuti 5 lakh 7 kuti 43 lakh 20 hajar 82
-1128. 5 kuti 7 lakh 39 hajar 28
+1128. 5 kuti kuti 7 lakh 39 hajar 28
 1129. 6 kuti 9 hajar 9 shata 8 kuti 38 hajar 6 shata 1
-1130. 7 kuti 7 hajar 8 shata 40
+1130. 7 kuti 7 hajar 8 shata kuti 40
 1131. 7 kuti 90 hajar 9 shata 9 kuti 71 lakh 20 hajar
 1132. 7 kuti 70 hajar 70 kuti
-1133. 8 kuti 82 lakh 76 hajar 8 shata 60
+1133. 8 kuti 82 lakh 76 hajar kuti 8 shata 60
 1134. 8 kuti 2 shata 79 kuti 3 lakh 9 hajar 2
 1135. 7 kuti 4 lakh 4 hajar 6 kuti 20 lakh 40 hajar 30
-1136. 9 kuti 4 hajar 3 shata 6
+1136. 9 kuti 4 hajar 3 shata kuti 6
 1137. 2 kuti 70 lakh 13 kuti 6 hajar 6 shata 60
 1138. 2 kuti 63 lakh 6 hajar 3 shata 50 kuti 36 hajar 9 shata
 1139. 3 kuti 8 lakh 20 hajar 87 kuti 80 lakh 60 hajar 4 shata 10
@@ -1145,118 +1145,118 @@
 1145. 8 kuti 2 lakh 98 hajar 60 kuti 1 lakh 43 hajar 50
 1146. 5 kuti 9 lakh 40 hajar 5 kuti 50 hajar
 1147. 4 kuti 8 lakh 5 hajar 1 shata 3 kuti 5 shata 97
-1148. 9 kuti 2 lakh 98 hajar 72 hajar 27
+1148. 9 kuti 2 lakh 98 hajar kuti 72 hajar 27
 1149. 1 kuti 7 kuti 9 lakh
 1150. 3 kuti 8 lakh 1 hajar 4 shata 2 kuti 91 hajar 4 shata
 1151. 6 kuti 90 hajar 3 kuti 50 hajar 5 shata 60
-1152. 2 kuti 46 lakh 3 hajar 7 shata 3
+1152. 2 kuti 46 lakh 3 hajar 7 shata kuti 3
 1153. 2 kuti 78 hajar 8 kuti 7 lakh 90 hajar 16
 1154. 4 kuti 40 lakh 60 hajar 5 kuti 6 lakh 26 hajar 6 shata 92
 1155. 5 kuti 5 lakh 7 shata 7 kuti 2 lakh 42 hajar 1
-1156. 2 kuti 80 lakh 26 hajar 6 shata 42 lakh 10 hajar 33
+1156. 2 kuti 80 lakh 26 hajar 6 shata kuti 42 lakh 10 hajar 33
 1157. 5 kuti 79 lakh 2 hajar 50 kuti 90 lakh 6 hajar 2 shata 46
-1158. 9 kuti 3 lakh 8 hajar 8 shata 40 lakh 90 hajar 8 shata
-1159. 3 kuti 90 lakh 12 hajar 8 shata 58 lakh 9
-1160. 2 kuti 1 hajar 2 lakh 22 hajar 35
+1158. 9 kuti 3 lakh 8 hajar 8 shata kuti 40 lakh 90 hajar 8 shata
+1159. 3 kuti 90 lakh 12 hajar 8 shata kuti 58 lakh 9
+1160. 2 kuti 1 hajar kuti 2 lakh 22 hajar 35
 1161. 4 kuti 2 lakh 91 kuti 18 lakh 9 hajar 3 shata 5
 1162. 7 kuti 30 hajar 6 shata 8 kuti 70 lakh 80 hajar 32
 1163. 3 kuti 13 lakh 8 hajar 4 kuti 8 shata 6
 1164. 9 kuti 81 lakh 40 hajar 8 shata 85 kuti 2 hajar 2 shata
 1165. 9 kuti 8 hajar 90 kuti 40 hajar 2 shata 1
-1166. 3 kuti 7 lakh 3 hajar 6 lakh 9 shata 3
+1166. 3 kuti 7 lakh 3 hajar kuti 6 lakh 9 shata 3
 1167. 6 kuti 84 hajar 70 kuti 30 lakh 7 shata
 1168. 3 kuti 9 lakh 40 hajar 5 kuti 30 lakh
 1169. 7 kuti 60 lakh 1 hajar 9 shata 4 kuti 1 shata 70
 1170. 5 kuti 80 hajar 30 kuti 14 lakh 4 shata 50
-1171. 3 kuti 30 hajar 3 lakh 5 hajar 1 shata 10
-1172. 8 kuti 2 shata 2 shata 10
+1171. 3 kuti 30 hajar kuti 3 lakh 5 hajar 1 shata 10
+1172. 8 kuti 2 shata kuti 2 shata 10
 1173. 1 kuti 60 lakh 41 hajar 9 shata 82 kuti 7 lakh 80 hajar 1 shata 99
 1174. 8 kuti 6 lakh 3 shata 1 kuti 50 lakh 4 hajar 4 shata 75
 1175. 8 kuti 8 lakh 10 hajar 1 shata 7 kuti 57 lakh 2 shata 7
 1176. 6 kuti 6 lakh 6 shata 62 kuti 13 hajar 9 shata 43
 1177. 9 kuti 61 lakh 8 hajar 96 kuti 4 lakh 68 hajar
 1178. 8 kuti 20 lakh 80 hajar 80 kuti 90 lakh 96 hajar 9 shata
-1179. 3 kuti 80 hajar 3 hajar
+1179. 3 kuti 80 hajar kuti 3 hajar
 1180. 5 kuti 2 hajar 4 kuti 13 lakh 1 hajar 7 shata 30
-1181. 9 kuti 76 lakh 8 lakh 80 hajar
+1181. 9 kuti 76 lakh kuti 8 lakh 80 hajar
 1182. 3 kuti 60 lakh 76 kuti 4 lakh
 1183. 6 kuti 56 lakh 60 hajar 6 shata 23 kuti 3 lakh
 1184. 1 kuti 80 lakh 6 shata 44 kuti 2 lakh 45 hajar 4
 1185. 8 kuti 2 lakh 6 hajar 43 kuti 4 hajar 3 shata 28
 1186. 8 kuti 6 shata 90 kuti 6 lakh 64 hajar
-1187. 3 kuti 30 lakh 78 hajar 9 shata 60 hajar 8 shata 40
+1187. 3 kuti 30 lakh 78 hajar 9 shata kuti 60 hajar 8 shata 40
 1188. 1 kuti 70 lakh 1 hajar 76 kuti 22 lakh 2 shata
 1189. 8 kuti 3 lakh 60 hajar 26 kuti 25 lakh 3 shata
-1190. 3 kuti 30 lakh 20 lakh 2 hajar 9 shata 9
+1190. 3 kuti 30 lakh kuti 20 lakh 2 hajar 9 shata 9
 1191. 6 kuti 55 lakh 68 hajar 80 kuti 37 lakh 90 hajar 9
 1192. 2 kuti 20 kuti 40 lakh 28 hajar 10
-1193. 2 kuti 6 lakh 3 hajar 4 shata 4 lakh 5
+1193. 2 kuti 6 lakh 3 hajar 4 shata kuti 4 lakh 5
 1194. 2 kuti 70 lakh 60 hajar 8 kuti 50 lakh 7 shata
 1195. 6 kuti 7 hajar 44 kuti 90 lakh 96 hajar
-1196. 6 kuti 29 lakh 32 hajar 15 lakh 84 hajar 64
+1196. 6 kuti 29 lakh 32 hajar kuti 15 lakh 84 hajar 64
 1197. 4 kuti 1 lakh 9 hajar 2 kuti 9 lakh 50 hajar 7 shata 6
 1198. 1 kuti 3 kuti 5 lakh 4 hajar 5 shata 7
-1199. 9 kuti 84 lakh 60 hajar 61 lakh 9 shata
+1199. 9 kuti 84 lakh 60 hajar kuti 61 lakh 9 shata
 1200. 3 kuti 86 lakh 3 kuti 64 lakh 20 hajar
 1201. 8 kuti 80 hajar 7 shata 80 kuti 60 lakh 32 hajar 50
 1202. 7 kuti 6 hajar 9 shata 7 kuti 7 lakh 90 hajar 7 shata 80
-1203. 7 kuti 90 lakh 20 hajar 5 shata 30 hajar 9 shata 90
-1204. 7 kuti 6 lakh 5 shata 8 lakh 60 hajar 3 shata
+1203. 7 kuti 90 lakh 20 hajar 5 shata kuti 30 hajar 9 shata 90
+1204. 7 kuti 6 lakh 5 shata kuti 8 lakh 60 hajar 3 shata
 1205. 3 kuti 4 kuti 6 shata 3
-1206. 5 kuti 72 lakh 63 lakh 7
+1206. 5 kuti 72 lakh kuti 63 lakh 7
 1207. 7 kuti 5 kuti 9 lakh 89 hajar 2 shata 30
-1208. 5 kuti 47 hajar 2 lakh 50 hajar 4
+1208. 5 kuti 47 hajar kuti 2 lakh 50 hajar 4
 1209. 1 kuti 20 lakh 10 hajar 1 shata 39 kuti 61 lakh 24
 1210. 2 kuti 9 lakh 40 hajar 7 shata 4 kuti 41 lakh 40 hajar 8 shata 50
 1211. 7 kuti 60 lakh 20 hajar 2 shata 80 kuti 6 lakh 86 hajar 74
 1212. 2 kuti 40 lakh 60 hajar 4 shata 61 kuti 14 lakh 16 hajar 40
 1213. 6 kuti 3 lakh 8 hajar 1 shata 9 kuti 60 lakh 3 hajar 1 shata 40
 1214. 1 kuti 89 lakh 10 hajar 17 kuti 7 lakh 10 hajar 31
-1215. 5 kuti 30 lakh 5 hajar 2 shata 8 lakh 20 hajar
+1215. 5 kuti 30 lakh 5 hajar 2 shata kuti 8 lakh 20 hajar
 1216. 2 kuti 5 lakh 8 hajar 9 kuti 15 hajar 89
-1217. 8 kuti 2 hajar 8 hajar 2 shata
+1217. 8 kuti 2 hajar kuti 8 hajar 2 shata
 1218. 7 kuti 6 lakh 4 shata 39 kuti 52 lakh 6 hajar 4 shata
 1219. 6 kuti 90 lakh 20 hajar 9 kuti 8 lakh 10 hajar 9
-1220. 5 kuti 5 lakh 7 hajar 10 lakh 30 hajar 3 shata 40
+1220. 5 kuti 5 lakh 7 hajar kuti 10 lakh 30 hajar 3 shata 40
 1221. 2 kuti 28 lakh 70 kuti 70 lakh 6 hajar 6 shata 10
 1222. 6 kuti 8 kuti 38 lakh 30
-1223. 3 kuti 3 lakh 70 hajar 40 lakh 75 hajar 50
+1223. 3 kuti 3 lakh 70 hajar kuti 40 lakh 75 hajar 50
 1224. 2 kuti 83 lakh 4 shata 50 kuti 5 lakh 7 hajar 6
 1225. 6 kuti 20 hajar 78 kuti 7 hajar
-1226. 9 kuti 10 lakh 13 hajar 1 lakh 80 hajar
+1226. 9 kuti 10 lakh 13 hajar kuti 1 lakh 80 hajar
 1227. 9 kuti 6 shata 70 kuti 7
 1228. 6 kuti 8 lakh 9 hajar 40 kuti 7 lakh
 1229. 6 kuti 2 lakh 60 kuti 7 lakh 2 hajar
-1230. 7 kuti 60 lakh 50 hajar 20 lakh 47 hajar 33
+1230. 7 kuti 60 lakh 50 hajar kuti 20 lakh 47 hajar 33
 1231. 6 kuti 2 lakh 7 kuti 7 lakh 7 hajar 5 shata 60
 1232. 9 kuti 30 lakh 1 hajar 3 shata 44 kuti 60 lakh 6
-1233. 6 kuti 20 lakh 99 hajar 10 lakh 3 hajar 3 shata 7
+1233. 6 kuti 20 lakh 99 hajar kuti 10 lakh 3 hajar 3 shata 7
 1234. 7 kuti 90 lakh 6 hajar 4 shata 48 kuti 87 lakh
 1235. 1 kuti 40 hajar 7 kuti 30 lakh 5
 1236. 6 kuti 38 lakh 82 kuti 25
-1237. 9 kuti 9 lakh 29 hajar 7 shata 1 lakh 30 hajar
+1237. 9 kuti 9 lakh 29 hajar 7 shata kuti 1 lakh 30 hajar
 1238. 1 kuti 50 lakh 2 shata 80 kuti 14
 1239. 5 kuti 90 lakh 43 hajar 10 kuti 66 lakh 2 shata
 1240. 3 kuti 80 lakh 6 hajar 5 shata 30 kuti 51 lakh 6 shata 4
 1241. 8 kuti 9 lakh 3 shata 3 kuti 20 hajar 62
-1242. 6 kuti 50 lakh 10 hajar 40 lakh
+1242. 6 kuti 50 lakh 10 hajar kuti 40 lakh
 1243. 4 kuti 4 lakh 90 hajar 5 shata 9 kuti 56 lakh 10 hajar 80
 1244. 4 kuti 70 lakh 2 hajar 4 shata 1 kuti 80 lakh 37 hajar
 1245. 6 kuti 60 lakh 60 hajar 5 shata 97 kuti 66 lakh 10 hajar
 1246. 9 kuti 1 lakh 23 hajar 92 kuti 6 hajar 6 shata 4
-1247. 7 kuti 62 hajar 2 lakh
-1248. 8 kuti 4 lakh 9 lakh 21 hajar 7
+1247. 7 kuti 62 hajar kuti 2 lakh
+1248. 8 kuti 4 lakh kuti 9 lakh 21 hajar 7
 1249. 2 kuti 50 lakh 45 hajar 20 kuti 91 lakh 15 hajar
 1250. 4 kuti 2 lakh 61 hajar 7 shata 20 kuti 1 lakh 4 hajar 2
-1251. 8 kuti 9 lakh 54 hajar 2 lakh 90 hajar 3 shata 50
-1252. 6 kuti 97 lakh 3 hajar 1 shata
-1253. 2 kuti 1 lakh 8 hajar 3 shata 90 hajar 1 shata
+1251. 8 kuti 9 lakh 54 hajar kuti 2 lakh 90 hajar 3 shata 50
+1252. 6 kuti kuti 97 lakh 3 hajar 1 shata
+1253. 2 kuti 1 lakh 8 hajar 3 shata kuti 90 hajar 1 shata
 1254. 9 kuti 30 lakh 40 hajar 9 shata 79 kuti 40 lakh 70 hajar 4
 1255. 1 kuti 65 lakh 5 hajar 6 shata 52 kuti 98 lakh 2 hajar 7 shata 12
-1256. 6 kuti 83 lakh 83 hajar 4 shata 3 shata 3
+1256. 6 kuti 83 lakh 83 hajar 4 shata kuti 3 shata 3
 1257. 9 kuti 70 lakh 5 hajar 9 kuti 9 hajar 6 shata 9
 1258. 4 kuti 70 lakh 3 shata 94 kuti 90 lakh 53 hajar
-1259. 4 kuti 90 lakh
+1259. 4 kuti 90 lakh kuti
 1260. 8 kuti 40 lakh 50 hajar 53 kuti 1 lakh 2 shata 70
 1261. 2 kuti 90 hajar 17 kuti 9 lakh 40 hajar
 1262. 4 kuti 9 lakh 80 hajar 20 kuti 33 lakh 90 hajar 5 shata 90
@@ -1266,13 +1266,13 @@
 1266. 7 kuti 90 lakh 4 shata 60 kuti 26 lakh 67 hajar 5
 1267. 9 kuti 80 lakh 55 hajar 5 shata 50 kuti 3 lakh 9 hajar 7
 1268. 1 kuti 40 lakh 90 kuti 40 lakh 10 hajar 63
-1269. 6 kuti 7 lakh 4 lakh 50 hajar 89
+1269. 6 kuti 7 lakh kuti 4 lakh 50 hajar 89
 1270. 5 kuti 90 hajar 3 kuti 90 lakh 80 hajar 8 shata 6
 1271. 2 kuti 90 lakh 7 hajar 50 kuti 86 hajar 3 shata 80
 1272. 2 kuti 40 lakh 30 hajar 4 kuti 5 lakh 1 shata 47
 1273. 6 kuti 56 lakh 4 shata 33 kuti 44 hajar 5 shata 4
 1274. 7 kuti 70 lakh 79 hajar 30 kuti 8 lakh 3 hajar 8
-1275. 9 kuti 2 lakh 27 lakh 90 hajar 50
+1275. 9 kuti 2 lakh kuti 27 lakh 90 hajar 50
 1276. 5 kuti 30 lakh 2 hajar 7 shata 7 kuti 83 lakh 50
 1277. 1 kuti 50 lakh 90 hajar 99 kuti 30 lakh 3 hajar 2 shata 20
 1278. 3 kuti 2 lakh 10 hajar 7 kuti 8 lakh 13 hajar 9
@@ -1280,59 +1280,59 @@
 1280. 8 kuti 51 lakh 2 hajar 3 shata 6 kuti 1 lakh 2 shata 91
 1281. 4 kuti 90 lakh 27 hajar 4 shata 90 kuti 40 lakh 50 hajar 8 shata 8
 1282. 1 kuti 8 shata 7 kuti 6 lakh
-1283. 4 kuti 3 lakh 5 shata 6 lakh
+1283. 4 kuti 3 lakh 5 shata kuti 6 lakh
 1284. 4 kuti 70 kuti 12 hajar 1 shata 9
-1285. 3 kuti 40 lakh 9 hajar 57 hajar 60
+1285. 3 kuti 40 lakh 9 hajar kuti 57 hajar 60
 1286. 1 kuti 40 lakh 2 kuti 1 lakh 90 hajar 16
-1287. 2 kuti 31 lakh 80 hajar 4 hajar 7 shata 52
-1288. 4 kuti 34 lakh 10 hajar 5 lakh 80 hajar
-1289. 6 kuti 60 lakh 4 hajar 7 shata 4 lakh 31 hajar 1 shata
+1287. 2 kuti 31 lakh 80 hajar kuti 4 hajar 7 shata 52
+1288. 4 kuti 34 lakh 10 hajar kuti 5 lakh 80 hajar
+1289. 6 kuti 60 lakh 4 hajar 7 shata kuti 4 lakh 31 hajar 1 shata
 1290. 6 kuti 80 lakh 4 kuti 87 hajar
 1291. 5 kuti 2 lakh 20 hajar 5 shata 70 kuti 70 lakh 14
 1292. 4 kuti 2 lakh 30 hajar 6 kuti 40 hajar
 1293. 4 kuti 88 lakh 2 hajar 7 shata 43 kuti 3 lakh 9
-1294. 1 kuti 7 hajar 7 shata 76 lakh 4 shata
+1294. 1 kuti 7 hajar 7 shata kuti 76 lakh 4 shata
 1295. 2 kuti 7 lakh 4 shata 97 kuti 20 lakh
-1296. 2 kuti 7 lakh 30 hajar 6 shata 24 lakh 11 hajar 5
+1296. 2 kuti 7 lakh 30 hajar 6 shata kuti 24 lakh 11 hajar 5
 1297. 2 kuti 6 lakh 10 hajar 9 kuti 82 lakh 10 hajar 3 shata 80
 1298. 2 kuti 14 hajar 9 kuti 65 lakh 4 hajar 90
-1299. 9 kuti 70 lakh 3 lakh 30 hajar 5 shata
-1300. 1 kuti 6 hajar 5 shata 9 lakh 10 hajar 5
-1301. 9 kuti 90 lakh 9 hajar 9 shata 20 lakh 87 hajar 7
+1299. 9 kuti 70 lakh kuti 3 lakh 30 hajar 5 shata
+1300. 1 kuti 6 hajar 5 shata kuti 9 lakh 10 hajar 5
+1301. 9 kuti 90 lakh 9 hajar 9 shata kuti 20 lakh 87 hajar 7
 1302. 8 kuti 7 lakh 2 hajar 2 shata 27 kuti 75 lakh 70 hajar 7 shata
-1303. 6 kuti 45 lakh 50 hajar 9 shata 8 shata
+1303. 6 kuti 45 lakh 50 hajar 9 shata kuti 8 shata
 1304. 1 kuti 25 hajar 3 kuti 8 hajar 7 shata
-1305. 2 kuti 70 lakh 41 lakh 20 hajar 9
-1306. 7 kuti 90 lakh 50 lakh 30 hajar 6 shata
-1307. 3 kuti 9 lakh 5 hajar 2 shata 60 hajar 8 shata 11
+1305. 2 kuti 70 lakh kuti 41 lakh 20 hajar 9
+1306. 7 kuti 90 lakh kuti 50 lakh 30 hajar 6 shata
+1307. 3 kuti 9 lakh 5 hajar 2 shata kuti 60 hajar 8 shata 11
 1308. 8 kuti 6 lakh 45 hajar 20 kuti 60 hajar 8 shata 70
 1309. 2 kuti 1 lakh 8 shata 70 kuti 30 lakh 70 hajar 9 shata
 1310. 1 kuti 7 hajar 8 kuti 20 lakh 7 shata 4
 1311. 4 kuti 53 hajar 9 kuti 44 hajar
-1312. 5 kuti 30 lakh 8 lakh 40 hajar
+1312. 5 kuti 30 lakh kuti 8 lakh 40 hajar
 1313. 1 kuti 10 lakh 60 kuti 73 lakh 8 hajar 5 shata 90
 1314. 7 kuti 38 hajar 80 kuti 26 hajar 6 shata
 1315. 5 kuti 81 lakh 90 hajar 60 kuti 53
 1316. 1 kuti 60 lakh 40 hajar 70 kuti 60 lakh 4 hajar 9 shata 10
 1317. 5 kuti 49 lakh 50 hajar 1 kuti 1 lakh 89 hajar 6 shata 30
 1318. 2 kuti 1 lakh 18 kuti 59 lakh 67 hajar 3 shata 4
-1319. 7 kuti 4 lakh 2 hajar 5 lakh 2 hajar 30
+1319. 7 kuti 4 lakh 2 hajar kuti 5 lakh 2 hajar 30
 1320. 5 kuti 80 lakh 5 shata 8 kuti 9 lakh 3 hajar
 1321. 7 kuti 4 lakh 6 hajar 1 shata 10 kuti 3 hajar 9
 1322. 7 kuti 80 lakh 2 hajar 5 shata 60 kuti 95 lakh 70 hajar
 1323. 1 kuti 10 hajar 1 kuti 2 shata 20
-1324. 2 kuti 6 shata 51 hajar 8 shata 45
-1325. 9 kuti 24 lakh 23 hajar 70 lakh 9 hajar 8 shata 3
-1326. 2 kuti 60 hajar 3 shata 50
-1327. 4 kuti 1 lakh 45 hajar 1 shata 30 lakh 68
+1324. 2 kuti 6 shata kuti 51 hajar 8 shata 45
+1325. 9 kuti 24 lakh 23 hajar kuti 70 lakh 9 hajar 8 shata 3
+1326. 2 kuti 60 hajar kuti 3 shata 50
+1327. 4 kuti 1 lakh 45 hajar 1 shata kuti 30 lakh 68
 1328. 1 kuti 30 lakh 26 kuti 52 hajar 1 shata 7
-1329. 3 kuti 6 lakh 10 hajar 8 shata 60 hajar 4 shata 60
+1329. 3 kuti 6 lakh 10 hajar 8 shata kuti 60 hajar 4 shata 60
 1330. 3 kuti 20 hajar 52 kuti 5 lakh 89 hajar 8
 1331. 1 kuti 80 lakh 70 kuti 3 hajar
 1332. 3 kuti 50 lakh 51 kuti 4 shata 80
-1333. 1 kuti 24 hajar 5 lakh 52 hajar 1 shata 2
+1333. 1 kuti 24 hajar kuti 5 lakh 52 hajar 1 shata 2
 1334. 4 kuti 4 hajar 4 shata 3 kuti 20 lakh 83 hajar
-1335. 5 kuti 90 lakh 55 hajar 6 shata 7 lakh 3 hajar 4 shata 25
+1335. 5 kuti 90 lakh 55 hajar 6 shata kuti 7 lakh 3 hajar 4 shata 25
 1336. 3 kuti 57 kuti 9 hajar
 1337. 8 kuti 22 lakh 3 shata 9 kuti 5 shata 4
 1338. 1 kuti 4 shata 72 kuti 15 hajar 3 shata 9
@@ -1341,15 +1341,15 @@
 1341. 3 kuti 45 lakh 5 kuti 96 lakh 91 hajar
 1342. 7 kuti 11 hajar 3 shata 3 kuti 60 lakh 38 hajar 70
 1343. 4 kuti 8 shata 50 kuti 2 hajar
-1344. 7 kuti 69 lakh 20 hajar 3 shata 90 lakh 6 hajar 5 shata 52
+1344. 7 kuti 69 lakh 20 hajar 3 shata kuti 90 lakh 6 hajar 5 shata 52
 1345. 5 kuti 9 lakh 9 shata 9 kuti 20 lakh 4 hajar 6 shata
-1346. 3 kuti 40 lakh 90 hajar 10 lakh
+1346. 3 kuti 40 lakh 90 hajar kuti 10 lakh
 1347. 8 kuti 30 lakh 38 hajar 4 kuti 92 hajar 2 shata 90
-1348. 3 kuti 6 lakh 57 hajar 5 lakh 50 hajar 9 shata 4
+1348. 3 kuti 6 lakh 57 hajar kuti 5 lakh 50 hajar 9 shata 4
 1349. 7 kuti 3 lakh 5 hajar 68 kuti 4 shata 14
-1350. 6 kuti 90 lakh 6 hajar 2 shata 1 lakh 9
-1351. 9 kuti 90 hajar 2 shata 10 lakh 9 shata 4
-1352. 6 kuti 39 lakh 32 hajar 19 lakh 7 hajar 5 shata 50
+1350. 6 kuti 90 lakh 6 hajar 2 shata kuti 1 lakh 9
+1351. 9 kuti 90 hajar 2 shata kuti 10 lakh 9 shata 4
+1352. 6 kuti 39 lakh 32 hajar kuti 19 lakh 7 hajar 5 shata 50
 1353. 9 kuti 70 lakh 8 shata 9 kuti 4 hajar 9 shata 76
 1354. 2 kuti 50 lakh 8 shata 8 kuti 2 lakh 8 shata
 1355. 9 kuti 39 lakh 6 hajar 70 kuti 8
@@ -1359,24 +1359,24 @@
 1359. 7 kuti 9 lakh 3 shata 2 kuti 4 lakh 4 hajar 1 shata
 1360. 6 kuti 33 lakh 17 hajar 5 kuti 89 lakh 7
 1361. 5 kuti 8 lakh 9 shata 46 kuti 9 lakh 99 hajar 3 shata 21
-1362. 8 kuti 83 hajar 3 shata 3 lakh 9 hajar 9 shata 27
+1362. 8 kuti 83 hajar 3 shata kuti 3 lakh 9 hajar 9 shata 27
 1363. 6 kuti 26 lakh 30 hajar 3 shata 20 kuti 50 lakh 2 shata
 1364. 8 kuti 5 lakh 6 hajar 80 kuti
 1365. 5 kuti 6 lakh 7 shata 5 kuti 80 lakh 30 hajar 6
-1366. 2 kuti 10 lakh 9 hajar 6 hajar 3 shata 86
+1366. 2 kuti 10 lakh 9 hajar kuti 6 hajar 3 shata 86
 1367. 2 kuti 51 hajar 70 kuti 1 lakh 5 hajar 80
-1368. 3 kuti 10 lakh 30 hajar 70 lakh 3 hajar 5
-1369. 5 kuti 60 lakh 30 hajar 8 shata 80 lakh 7 hajar 76
+1368. 3 kuti 10 lakh 30 hajar kuti 70 lakh 3 hajar 5
+1369. 5 kuti 60 lakh 30 hajar 8 shata kuti 80 lakh 7 hajar 76
 1370. 1 kuti 6 hajar 90 kuti 40 lakh 8 hajar 3 shata 1
-1371. 9 kuti 9 shata
-1372. 7 kuti 5 lakh 6 lakh 4 hajar 7 shata 10
+1371. 9 kuti kuti 9 shata
+1372. 7 kuti 5 lakh kuti 6 lakh 4 hajar 7 shata 10
 1373. 3 kuti 2 lakh 93 hajar 49 kuti 20 lakh 1 shata 70
 1374. 3 kuti 9 lakh 20 hajar 6 kuti 7 lakh 58 hajar 9
-1375. 4 kuti 94 hajar 5 shata 30
+1375. 4 kuti 94 hajar 5 shata kuti 30
 1376. 4 kuti 30 hajar 4 shata 29 kuti
-1377. 8 kuti 51 lakh 8 shata
-1378. 8 kuti 62 lakh 60 lakh
-1379. 1 kuti 7 shata 8 lakh 11 hajar 26
+1377. 8 kuti 51 lakh 8 shata kuti
+1378. 8 kuti 62 lakh kuti 60 lakh
+1379. 1 kuti 7 shata kuti 8 lakh 11 hajar 26
 1380. 6 kuti 20 lakh 6 shata 80 kuti 99 lakh 53 hajar
 1381. 9 kuti 90 lakh 56 hajar 4 shata 21 kuti 80 lakh 80 hajar 6 shata 89
 1382. 2 kuti 4 lakh 60 hajar 37 kuti 3 lakh 3 hajar 5 shata
@@ -1385,61 +1385,61 @@
 1385. 8 kuti 6 lakh 10 hajar 7 shata 9 kuti 10 lakh 74
 1386. 4 kuti 9 lakh 5 hajar 10 kuti 90 lakh 90 hajar 9 shata 8
 1387. 2 kuti 6 lakh 76 kuti 80 hajar 30
-1388. 8 kuti 50 lakh 90 lakh 8 shata 70
+1388. 8 kuti 50 lakh kuti 90 lakh 8 shata 70
 1389. 4 kuti 5 lakh 7 hajar 5 shata 40 kuti 40 hajar 10
 1390. 4 kuti 80 lakh 5 hajar 7 kuti 90 lakh 6 shata 5
 1391. 3 kuti 1 hajar 86 kuti 98 lakh 1 shata
-1392. 5 kuti 88 lakh 26 hajar 3 shata 20 lakh 20 hajar 2 shata 80
-1393. 6 kuti 90 lakh 3 hajar 30
-1394. 6 kuti 80 hajar 3 shata 1 hajar 7 shata 56
+1392. 5 kuti 88 lakh 26 hajar 3 shata kuti 20 lakh 20 hajar 2 shata 80
+1393. 6 kuti 90 lakh kuti 3 hajar 30
+1394. 6 kuti 80 hajar 3 shata kuti 1 hajar 7 shata 56
 1395. 1 kuti 9 hajar 65 kuti 5 lakh 53 hajar 9 shata 2
-1396. 5 kuti 4 lakh 4 hajar 8 lakh 18 hajar
+1396. 5 kuti 4 lakh 4 hajar kuti 8 lakh 18 hajar
 1397. 9 kuti 30 lakh 80 hajar 75 kuti 3 lakh 80 hajar 80
 1398. 1 kuti 40 lakh 70 hajar 9 shata 50 kuti 62 lakh 6
 1399. 8 kuti 30 lakh 38 hajar 5 kuti 98 hajar 7 shata 6
 1400. 7 kuti 3 lakh 50 hajar 1 shata 62 kuti 3 lakh 20
 1401. 7 kuti 50 kuti 40 lakh 7 hajar 1
-1402. 5 kuti 34 lakh 50 hajar 45 lakh 90
+1402. 5 kuti 34 lakh 50 hajar kuti 45 lakh 90
 1403. 8 kuti 80 lakh 80 kuti 80 lakh 40 hajar 2 shata 70
 1404. 1 kuti 50 lakh 2 hajar 3 shata 40 kuti 6 hajar 9
 1405. 3 kuti 37 lakh 4 hajar 2 shata 40 kuti 84 lakh 66 hajar 3 shata
 1406. 6 kuti 8 lakh 4 shata 1 kuti 60 lakh 8 hajar
-1407. 2 kuti 96 lakh 9 hajar 4 lakh 5 hajar 3
+1407. 2 kuti 96 lakh 9 hajar kuti 4 lakh 5 hajar 3
 1408. 4 kuti 8 lakh 45 hajar 6 shata 2 kuti 40
-1409. 6 kuti 60 lakh 8 shata 20 lakh 1
+1409. 6 kuti 60 lakh 8 shata kuti 20 lakh 1
 1410. 3 kuti 50 lakh 5 hajar 78 kuti 3 lakh 9 shata 6
 1411. 9 kuti 90 lakh 70 hajar 8 shata 30 kuti 10 lakh 2 shata
-1412. 9 kuti 80 hajar 6 shata 46 lakh 30 hajar 59
+1412. 9 kuti 80 hajar 6 shata kuti 46 lakh 30 hajar 59
 1413. 3 kuti 10 lakh 6 shata 70 kuti 53 lakh 2 shata 64
 1414. 6 kuti 90 lakh 16 hajar 9 shata 90 kuti 70 lakh 30 hajar 1
 1415. 9 kuti 19 lakh 5 hajar 9 shata 70 kuti 70 lakh 70 hajar 81
-1416. 3 kuti 7 lakh 4 shata 40 lakh 60
+1416. 3 kuti 7 lakh 4 shata kuti 40 lakh 60
 1417. 3 kuti 5 hajar 72 kuti 6 hajar 6 shata
-1418. 4 kuti 47 lakh 40 hajar 60
+1418. 4 kuti 47 lakh 40 hajar kuti 60
 1419. 1 kuti 7 hajar 90 kuti 2 lakh 5 shata
 1420. 1 kuti 7 lakh 2 shata 98 kuti 50 lakh 20 hajar
 1421. 1 kuti 90 lakh 69 hajar 6 shata 20 kuti 8 lakh 8 shata
 1422. 2 kuti 9 lakh 4 shata 5 kuti 90 lakh 4 hajar 4 shata 8
 1423. 3 kuti 74 lakh 10 hajar 6 kuti 80 hajar 1 shata 10
-1424. 3 kuti 3 lakh 40 hajar 2 shata 9 shata 40
+1424. 3 kuti 3 lakh 40 hajar 2 shata kuti 9 shata 40
 1425. 7 kuti 8 lakh 8 hajar 80 kuti 4 lakh 7 hajar 30
 1426. 5 kuti 60 lakh 1 hajar 80 kuti 60 lakh 2 hajar 36
-1427. 5 kuti 42 lakh 60 hajar 7 lakh 4 hajar 58
+1427. 5 kuti 42 lakh 60 hajar kuti 7 lakh 4 hajar 58
 1428. 3 kuti 7 hajar 6 shata 38 kuti 5 lakh 8 shata 6
-1429. 6 kuti 8 lakh 3 lakh 20 hajar 8 shata 71
+1429. 6 kuti 8 lakh kuti 3 lakh 20 hajar 8 shata 71
 1430. 3 kuti 3 lakh 82 hajar 50 kuti 43 lakh 6 hajar 10
 1431. 3 kuti 2 lakh 4 kuti 80 hajar 3 shata 8
 1432. 8 kuti 50 lakh 10 hajar 1 kuti 50 lakh 31 hajar 12
 1433. 7 kuti 70 hajar 75 kuti 53 hajar 6 shata 70
 1434. 5 kuti 7 lakh 1 hajar 9 kuti 77 lakh 46 hajar 8 shata 3
-1435. 5 kuti 67 hajar 4 lakh 20 hajar 1 shata
+1435. 5 kuti 67 hajar kuti 4 lakh 20 hajar 1 shata
 1436. 7 kuti 50 lakh 30 hajar 6 shata 53 kuti 60 lakh 50 hajar 26
-1437. 5 kuti 91 lakh 82 hajar
-1438. 6 kuti 89 hajar 7
+1437. 5 kuti 91 lakh 82 hajar kuti
+1438. 6 kuti 89 hajar kuti 7
 1439. 7 kuti 20 lakh 75 hajar 9 shata 30 kuti 52 lakh 60
 1440. 9 kuti 38 hajar 4 shata 77 kuti 8
 1441. 6 kuti 3 hajar 50 kuti 90 lakh
-1442. 8 kuti 75 hajar 11 hajar
+1442. 8 kuti 75 hajar kuti 11 hajar
 1443. 6 kuti 6 lakh 50 hajar 8 kuti 91 lakh 7
 1444. 7 kuti 3 shata 10 kuti 64
 1445. 3 kuti 60 lakh 1 hajar 9 shata 8 kuti 7 hajar 6
@@ -1450,28 +1450,28 @@
 1450. 4 kuti 5 hajar 4 shata 45 kuti 40 hajar
 1451. 3 kuti 66 lakh 30 hajar 99 kuti 74 lakh 2
 1452. 3 kuti 71 lakh 42 hajar 6 shata 37 kuti 95 lakh 97 hajar 6 shata 50
-1453. 3 kuti 1 lakh 90 hajar 71 hajar
+1453. 3 kuti 1 lakh 90 hajar kuti 71 hajar
 1454. 6 kuti 9 lakh 8 hajar 8 kuti 90 lakh 20 hajar 2
-1455. 1 kuti 1 lakh 42 hajar 7
+1455. 1 kuti 1 lakh kuti 42 hajar 7
 1456. 3 kuti 6 lakh 1 hajar 2 shata 90 kuti 64 lakh 70 hajar 90
 1457. 7 kuti 1 hajar 5 shata 70 kuti 5 hajar
-1458. 6 kuti 4 hajar 3 shata 9 lakh
+1458. 6 kuti 4 hajar 3 shata kuti 9 lakh
 1459. 7 kuti 5 lakh 20 hajar 46 kuti 77 lakh 9 hajar 9 shata 60
 1460. 8 kuti 80 hajar 7 kuti 43 lakh 60
 1461. 4 kuti 87 hajar 2 shata 90 kuti 73 lakh 80 hajar 35
 1462. 5 kuti 80 lakh 5 hajar 31 kuti 60 lakh 55 hajar 1 shata 90
 1463. 5 kuti 68 lakh 20 kuti 2 lakh 3 hajar 65
-1464. 5 kuti 2 lakh 10
+1464. 5 kuti 2 lakh kuti 10
 1465. 7 kuti 6 hajar 6 shata 7 kuti 29 lakh 1 hajar 9 shata 98
 1466. 8 kuti 52 lakh 50 hajar 5 kuti 4 lakh 2 shata
 1467. 1 kuti 85 lakh 3 shata 66 kuti 67 lakh 4
-1468. 4 kuti 69 lakh 2 shata 34 lakh 7 shata
+1468. 4 kuti 69 lakh 2 shata kuti 34 lakh 7 shata
 1469. 4 kuti 6 hajar 9 shata 60 kuti 9 lakh 68 hajar
 1470. 1 kuti 1 hajar 3 shata 43 kuti 9 lakh 9 hajar 2 shata 50
 1471. 7 kuti 6 shata 10 kuti 9 lakh 7 shata 3
 1472. 8 kuti 1 lakh 3 hajar 1 kuti 9 shata
-1473. 4 kuti 89 hajar 17 lakh 10
-1474. 3 kuti 2 lakh 4 lakh 18 hajar 9 shata
+1473. 4 kuti 89 hajar kuti 17 lakh 10
+1474. 3 kuti 2 lakh kuti 4 lakh 18 hajar 9 shata
 1475. 6 kuti 10 lakh 9 hajar 4 shata 50 kuti 40 hajar 6
 1476. 7 kuti 40 lakh 40 hajar 2 shata 77 kuti 30 lakh 9 shata 50
 1477. 3 kuti 50 hajar 1 shata 61 kuti 8 lakh 5 hajar 60
@@ -1479,48 +1479,48 @@
 1479. 8 kuti 60 kuti 70 lakh 6 shata
 1480. 2 kuti 10 lakh 6 shata 90 kuti 57 lakh 8 shata 55
 1481. 2 kuti 6 shata 8 kuti 70 lakh 5 hajar 1 shata 50
-1482. 1 kuti 6 shata 60
+1482. 1 kuti kuti 6 shata 60
 1483. 9 kuti 21 hajar 3 shata 90 kuti 21 hajar 2 shata
-1484. 5 kuti 82 lakh 30 hajar 6 shata 6
+1484. 5 kuti 82 lakh kuti 30 hajar 6 shata 6
 1485. 7 kuti 9 lakh 1 hajar 5 kuti 7 lakh 3 shata
 1486. 2 kuti 90 lakh 7 hajar 9 shata 5 kuti 42 lakh 90 hajar 8
-1487. 3 kuti 10 lakh 70 hajar 8 shata 7 hajar 4 shata
+1487. 3 kuti 10 lakh 70 hajar 8 shata kuti 7 hajar 4 shata
 1488. 4 kuti 55 hajar 40 kuti 71 lakh 10 hajar 5 shata 31
 1489. 5 kuti 44 hajar 50 kuti 30 lakh 88
-1490. 1 kuti 9 shata 6 lakh 2 hajar
+1490. 1 kuti 9 shata kuti 6 lakh 2 hajar
 1491. 6 kuti 8 hajar 7 kuti 8 lakh 84 hajar 53
-1492. 2 kuti 10 lakh 34 hajar 3 shata 30 lakh 9 hajar 9 shata 24
+1492. 2 kuti 10 lakh 34 hajar 3 shata kuti 30 lakh 9 hajar 9 shata 24
 1493. 9 kuti 43 lakh 70 hajar 80 kuti 38 hajar 7 shata
-1494. 2 kuti 7 lakh 9 hajar
+1494. 2 kuti 7 lakh 9 hajar kuti
 1495. 6 kuti 10 lakh 60 hajar 4 shata 5 kuti 18 lakh 30 hajar 6
 1496. 1 kuti 6 lakh 90 hajar 2 shata 96 kuti 98 hajar
-1497. 6 kuti 78 lakh 82 hajar 48 lakh 7 hajar 31
+1497. 6 kuti 78 lakh 82 hajar kuti 48 lakh 7 hajar 31
 1498. 5 kuti 10 lakh 10 hajar 20 kuti 80 lakh
 1499. 3 kuti 10 lakh 5 hajar 68 kuti 16 hajar 50
 1500. 6 kuti 9 hajar 1 shata 4 kuti 72 lakh 20 hajar 6 shata
-1501. 5 kuti 67 lakh 9 hajar 6 lakh 56 hajar 6 shata 68
+1501. 5 kuti 67 lakh 9 hajar kuti 6 lakh 56 hajar 6 shata 68
 1502. 7 kuti 60 lakh 40 hajar 1 kuti 92 lakh 90
 1503. 6 kuti 5 kuti 1 lakh 60 hajar 6 shata 40
 1504. 3 kuti 80 lakh 5 hajar 3 shata 35 kuti 29 lakh 74 hajar 6 shata
-1505. 9 kuti 7 lakh 30 hajar 50 hajar
+1505. 9 kuti 7 lakh 30 hajar kuti 50 hajar
 1506. 9 kuti 7 shata 40 kuti 60 hajar
 1507. 2 kuti 60 lakh 60 kuti 42 lakh
 1508. 4 kuti 1 hajar 6 shata 30 kuti 7 lakh 1 shata 9
-1509. 6 kuti 50 lakh 91 hajar 3 hajar 9
+1509. 6 kuti 50 lakh 91 hajar kuti 3 hajar 9
 1510. 1 kuti 80 lakh 7 kuti 60 lakh 3 shata
 1511. 4 kuti 40 lakh 14 kuti 81 lakh 6
 1512. 8 kuti 17 hajar 8 shata 70 kuti 9 lakh 1 hajar
-1513. 7 kuti 5 lakh 7 hajar 9 shata 1 lakh 50 hajar 1 shata 53
+1513. 7 kuti 5 lakh 7 hajar 9 shata kuti 1 lakh 50 hajar 1 shata 53
 1514. 8 kuti 11 hajar 77 kuti 9 lakh 96 hajar 6 shata 4
 1515. 1 kuti 4 hajar 1 shata 9 kuti 67 lakh 11 hajar 20
 1516. 7 kuti 1 lakh 1 shata 50 kuti 10 lakh 38 hajar 9 shata
 1517. 2 kuti 4 lakh 7 shata 8 kuti 80 hajar 6
-1518. 7 kuti 70 lakh 93 lakh 58 hajar 1
-1519. 8 kuti 70 lakh 6 shata 33 lakh 4 hajar 1 shata
+1518. 7 kuti 70 lakh kuti 93 lakh 58 hajar 1
+1519. 8 kuti 70 lakh 6 shata kuti 33 lakh 4 hajar 1 shata
 1520. 6 kuti 70 lakh 80 hajar 4 shata 60 kuti 4 hajar 8 shata
 1521. 4 kuti 10 lakh 59 hajar 77 kuti
 1522. 2 kuti 34 lakh 6 shata 59 kuti 49 lakh 49
-1523. 1 kuti 10 hajar 6 shata 97 lakh 5 hajar 4
+1523. 1 kuti 10 hajar 6 shata kuti 97 lakh 5 hajar 4
 1524. 8 kuti 7 lakh 3 hajar 80 kuti 2 lakh 41 hajar 8 shata 67
 1525. 9 kuti 5 hajar 2 shata 1 kuti 3 lakh 29 hajar 8 shata 8
 1526. 6 kuti 71 lakh 8 shata 30 kuti 10 lakh 1 shata 66
@@ -1532,27 +1532,27 @@
 1532. 8 kuti 8 shata 7 kuti 3 lakh 4 hajar 9 shata 6
 1533. 8 kuti 3 shata 6 kuti 4 lakh 2 shata
 1534. 7 kuti 75 kuti
-1535. 2 kuti 60 lakh 1 hajar 6 shata 8 hajar 13
+1535. 2 kuti 60 lakh 1 hajar 6 shata kuti 8 hajar 13
 1536. 5 kuti 40 lakh 58 hajar 8 shata 90 kuti 52 lakh 7 shata 15
-1537. 3 kuti 2 shata 82 hajar 2 shata 7
+1537. 3 kuti 2 shata kuti 82 hajar 2 shata 7
 1538. 4 kuti 10 lakh 9 hajar 2 shata 20 kuti 7 hajar
-1539. 7 kuti 3 hajar 27 hajar 2 shata 8
-1540. 7 kuti 7 lakh 7 hajar 5 shata 90 lakh 30 hajar 8 shata 96
+1539. 7 kuti 3 hajar kuti 27 hajar 2 shata 8
+1540. 7 kuti 7 lakh 7 hajar 5 shata kuti 90 lakh 30 hajar 8 shata 96
 1541. 6 kuti 6 lakh 6 hajar 2 kuti 68 lakh 3 shata 5
-1542. 9 kuti 8 lakh 9 hajar 6 shata 10 lakh 10 hajar 6 shata
+1542. 9 kuti 8 lakh 9 hajar 6 shata kuti 10 lakh 10 hajar 6 shata
 1543. 1 kuti 3 lakh 2 hajar 90 kuti 40 lakh 90
 1544. 7 kuti 40 hajar 5 shata 49 kuti 9 lakh 6 hajar 7 shata 2
 1545. 5 kuti 20 lakh 67 hajar 7 kuti 6 hajar 73
 1546. 3 kuti 30 hajar 10 kuti 56 lakh 80 hajar
 1547. 3 kuti 30 lakh 14 hajar 5 kuti 1 lakh 70 hajar 58
-1548. 6 kuti 80 lakh 40 lakh 5 hajar 50
+1548. 6 kuti 80 lakh kuti 40 lakh 5 hajar 50
 1549. 7 kuti 10 lakh 1 hajar 5 shata 9 kuti 60 lakh 5 shata 20
 1550. 2 kuti 2 lakh 53 kuti 3 lakh 40 hajar 4 shata 67
 1551. 2 kuti 10 hajar 8 shata 82 kuti 40 lakh 50
-1552. 8 kuti 2 hajar 1
+1552. 8 kuti kuti 2 hajar 1
 1553. 3 kuti 13 lakh 69 hajar 93 kuti 1 lakh 56 hajar 90
-1554. 9 kuti 9 lakh 8 shata 90 lakh
-1555. 4 kuti 79 lakh 5 hajar
+1554. 9 kuti 9 lakh 8 shata kuti 90 lakh
+1555. 4 kuti 79 lakh 5 hajar kuti
 1556. 4 kuti 10 lakh 9 shata 64 kuti 5 lakh 62 hajar 22
 1557. 6 kuti 59 hajar 10 kuti 1 lakh 20 hajar 8 shata 4
 1558. 1 kuti 2 lakh 72 hajar 71 kuti 2 lakh 30 hajar 2
@@ -1560,148 +1560,148 @@
 1560. 1 kuti 64 lakh 51 hajar 51 kuti 3 lakh 50 hajar 51
 1561. 1 kuti 49 lakh 7 kuti 2 shata 60
 1562. 9 kuti 99 lakh 10 hajar 1 shata 6 kuti 7 lakh 85 hajar
-1563. 9 kuti 70 lakh 50 hajar 7 shata 44 lakh 7
-1564. 2 kuti 70 lakh 30 hajar 9 lakh 54 hajar 30
+1563. 9 kuti 70 lakh 50 hajar 7 shata kuti 44 lakh 7
+1564. 2 kuti 70 lakh 30 hajar kuti 9 lakh 54 hajar 30
 1565. 7 kuti 8 lakh 4 kuti 60 lakh 93 hajar 4 shata 17
 1566. 7 kuti 27 hajar 2 shata 21 kuti 9 lakh 9 hajar
 1567. 7 kuti 7 lakh 5 shata 10 kuti 40 lakh 5 hajar 2 shata 70
 1568. 3 kuti 67 lakh 11 hajar 2 shata 90 kuti 9 lakh 3
-1569. 1 kuti 2 shata 72 lakh 10 hajar 5 shata 6
+1569. 1 kuti 2 shata kuti 72 lakh 10 hajar 5 shata 6
 1570. 1 kuti 7 lakh 19 hajar 6 kuti 17 lakh 4 shata 8
-1571. 2 kuti 9 shata 6 lakh 70 hajar 20
-1572. 5 kuti 90 hajar 3 shata 7 lakh
+1571. 2 kuti 9 shata kuti 6 lakh 70 hajar 20
+1572. 5 kuti 90 hajar 3 shata kuti 7 lakh
 1573. 3 kuti 4 shata 5 kuti 3 lakh 7 shata 29
 1574. 6 kuti 90 lakh 4 hajar 31 kuti 70 lakh 5 shata 50
 1575. 9 kuti 7 lakh 60 hajar 6 shata 7 kuti 90 lakh 20 hajar 7
 1576. 5 kuti 70 kuti 50 lakh 5 hajar 8 shata 81
-1577. 3 kuti 50 lakh 9 hajar 6 shata 2 lakh 4 hajar 9 shata 10
+1577. 3 kuti 50 lakh 9 hajar 6 shata kuti 2 lakh 4 hajar 9 shata 10
 1578. 1 kuti 2 lakh 70 hajar 60 kuti 9 shata
 1579. 9 kuti 8 lakh 9 hajar 9 shata 40 kuti 1 lakh 10 hajar 3 shata 8
 1580. 3 kuti 8 shata 20 kuti 28 lakh 8 hajar 4 shata
 1581. 5 kuti 13 lakh 4 hajar 70 kuti 60 hajar 3 shata 4
-1582. 6 kuti 2 lakh 8 lakh 4 hajar 5 shata 52
+1582. 6 kuti 2 lakh kuti 8 lakh 4 hajar 5 shata 52
 1583. 2 kuti 10 lakh 40 hajar 4 shata 39 kuti 54 lakh 90 hajar 9 shata
-1584. 2 kuti 4 lakh 3 hajar 1 shata 20 lakh 9 hajar 60
+1584. 2 kuti 4 lakh 3 hajar 1 shata kuti 20 lakh 9 hajar 60
 1585. 7 kuti 80 kuti 50 hajar
 1586. 3 kuti 30 lakh 50 hajar 4 shata 70 kuti 99 lakh 50 hajar 5 shata 79
-1587. 3 kuti 4 lakh 37 hajar 8 shata 82 hajar 14
+1587. 3 kuti 4 lakh 37 hajar 8 shata kuti 82 hajar 14
 1588. 6 kuti 9 lakh 66 kuti 43 lakh 2 hajar 4 shata 11
-1589. 4 kuti 4 hajar
+1589. 4 kuti 4 hajar kuti
 1590. 9 kuti 85 hajar 4 shata 6 kuti 28 lakh
 1591. 8 kuti 86 lakh 7 kuti 30 lakh 62 hajar 6 shata 10
 1592. 3 kuti 36 lakh 5 hajar 90 kuti 20 lakh 8 hajar 8
 1593. 7 kuti 22 lakh 9 kuti 5 lakh 87 hajar
 1594. 9 kuti 6 lakh 1 hajar 15 kuti 80 lakh 2 shata 1
 1595. 8 kuti 60 hajar 2 kuti 8 lakh 81 hajar 2
-1596. 1 kuti 14 lakh 30 hajar 6 shata 2
-1597. 6 kuti 20 lakh 60 hajar 8 shata 49 lakh 60 hajar
+1596. 1 kuti 14 lakh 30 hajar 6 shata kuti 2
+1597. 6 kuti 20 lakh 60 hajar 8 shata kuti 49 lakh 60 hajar
 1598. 2 kuti 7 lakh 70 hajar 4 shata 4 kuti 40 lakh 90 hajar
 1599. 1 kuti 1 lakh 1 hajar 3 shata 19 kuti 74 hajar 4
-1600. 7 kuti 20 hajar 5 lakh 10 hajar 2 shata 6
+1600. 7 kuti 20 hajar kuti 5 lakh 10 hajar 2 shata 6
 1601. 3 kuti 34 lakh 9 shata 36 kuti 6 hajar 7 shata 3
-1602. 1 kuti 6 lakh 8 hajar 4 shata 53
-1603. 5 kuti 6 lakh 5 lakh 20 hajar 3 shata
-1604. 3 kuti 77 lakh 81 hajar 5 shata 30 hajar 6 shata 20
-1605. 5 kuti 9 lakh 70 hajar 2 shata 70 lakh 96 hajar 5 shata 1
+1602. 1 kuti 6 lakh 8 hajar kuti 4 shata 53
+1603. 5 kuti 6 lakh kuti 5 lakh 20 hajar 3 shata
+1604. 3 kuti 77 lakh 81 hajar 5 shata kuti 30 hajar 6 shata 20
+1605. 5 kuti 9 lakh 70 hajar 2 shata kuti 70 lakh 96 hajar 5 shata 1
 1606. 4 kuti 5 lakh 3 shata 2 kuti 9
-1607. 1 kuti 30 lakh 10 hajar
+1607. 1 kuti 30 lakh 10 hajar kuti
 1608. 6 kuti 99 lakh 8 hajar 7 shata 7 kuti 50 hajar
-1609. 6 kuti 50 lakh 65 hajar 5 shata
+1609. 6 kuti 50 lakh kuti 65 hajar 5 shata
 1610. 7 kuti 9 lakh 4 hajar 9 shata 36 kuti 8 lakh 90 hajar 1 shata 70
 1611. 5 kuti 29 lakh 70 hajar 8 kuti 4 lakh
-1612. 8 kuti 20 hajar 52 hajar
+1612. 8 kuti 20 hajar kuti 52 hajar
 1613. 6 kuti 6 lakh 1 hajar 4 shata 30 kuti 8 lakh 62 hajar 18
 1614. 1 kuti 5 lakh 8 hajar 97 kuti 8 lakh 46 hajar 2 shata
-1615. 1 kuti 90 hajar 2 lakh 82 hajar 8 shata 18
+1615. 1 kuti 90 hajar kuti 2 lakh 82 hajar 8 shata 18
 1616. 9 kuti 29 lakh 50 hajar 70 kuti 72 lakh 53 hajar
 1617. 9 kuti 8 shata 80 kuti 2 lakh 3 hajar 4 shata 66
 1618. 2 kuti 80 lakh 9 shata 90 kuti 2
 1619. 3 kuti 86 lakh 40 hajar 2 shata 1 kuti 4 lakh 7 hajar 4 shata 60
 1620. 3 kuti 30 hajar 9 shata 90 kuti 50 lakh 7 shata
 1621. 3 kuti 79 kuti 91 lakh 20 hajar 22
-1622. 5 kuti 46 lakh 75 lakh 2 hajar 80
-1623. 9 kuti 1 lakh 60 hajar 1 shata 50
+1622. 5 kuti 46 lakh kuti 75 lakh 2 hajar 80
+1623. 9 kuti 1 lakh 60 hajar kuti 1 shata 50
 1624. 5 kuti 50 lakh 3 shata 70 kuti 86 hajar
 1625. 8 kuti 10 hajar 1 shata 83 kuti 10 lakh 40 hajar 1
 1626. 8 kuti 42 kuti 6 lakh 7 hajar
 1627. 9 kuti 3 lakh 6 hajar 97 kuti 20 lakh 1 hajar 10
 1628. 5 kuti 60 hajar 8 kuti 30 lakh 4 shata
-1629. 5 kuti 2 lakh 2 hajar 10
+1629. 5 kuti kuti 2 lakh 2 hajar 10
 1630. 6 kuti 6 hajar 70 kuti 8 lakh 30 hajar 7 shata 79
 1631. 3 kuti 90 hajar 47 kuti 65
-1632. 1 kuti 6 lakh 8 shata 96 lakh 90 hajar 3 shata
+1632. 1 kuti 6 lakh 8 shata kuti 96 lakh 90 hajar 3 shata
 1633. 4 kuti 41 lakh 4 hajar 1 kuti 8 lakh 3 hajar 20
-1634. 4 kuti 70 lakh 20 hajar 10 lakh 10 hajar 6 shata 40
+1634. 4 kuti 70 lakh 20 hajar kuti 10 lakh 10 hajar 6 shata 40
 1635. 9 kuti 30 hajar 50 kuti 2 lakh 7 shata 47
 1636. 5 kuti 60 lakh 20 hajar 3 shata 74 kuti 58 lakh 82 hajar 4 shata
 1637. 4 kuti 83 lakh 80 kuti 30 lakh 20 hajar 6 shata
 1638. 9 kuti 4 lakh 7 hajar 9 shata 44 kuti 46 hajar 5 shata 70
-1639. 2 kuti 6 lakh 3 shata 80 lakh 80 hajar 1
-1640. 1 kuti 98 lakh 60 hajar 50 hajar 4 shata 2
-1641. 1 kuti 64 hajar 6 shata 2 lakh 2 shata 50
+1639. 2 kuti 6 lakh 3 shata kuti 80 lakh 80 hajar 1
+1640. 1 kuti 98 lakh 60 hajar kuti 50 hajar 4 shata 2
+1641. 1 kuti 64 hajar 6 shata kuti 2 lakh 2 shata 50
 1642. 7 kuti 10 lakh 20 hajar 86 kuti 83 lakh 90 hajar 7 shata 67
 1643. 9 kuti 13 lakh 59 hajar 4 shata 50 kuti 30 lakh 1
 1644. 5 kuti 98 lakh 7 hajar 80 kuti 44 lakh 40 hajar 3
 1645. 8 kuti 2 hajar 2 shata 83 kuti 30 hajar
 1646. 9 kuti 1 hajar 6 shata 40 kuti 20 hajar 4 shata
-1647. 3 kuti 80 lakh 2 shata 6 shata 24
+1647. 3 kuti 80 lakh 2 shata kuti 6 shata 24
 1648. 4 kuti 25 lakh 8 hajar 8 shata 5 kuti 90 lakh 20 hajar 5 shata 80
 1649. 8 kuti 40 lakh 20 hajar 30 kuti 60 lakh 40 hajar 1
 1650. 5 kuti 25 lakh 20 hajar 77 kuti 53 hajar
 1651. 8 kuti 9 lakh 40 hajar 7 shata 2 kuti 4 lakh 70 hajar 6 shata
 1652. 5 kuti 79 lakh 2 hajar 4 shata 3 kuti 6 lakh 7 hajar 2 shata 8
 1653. 5 kuti 7 lakh 66 kuti 96 hajar 6 shata 20
-1654. 1 kuti 70 hajar 40 lakh 90
-1655. 1 kuti 7 hajar 9 lakh 44
-1656. 3 kuti 80 lakh 66 hajar 66 hajar
+1654. 1 kuti 70 hajar kuti 40 lakh 90
+1655. 1 kuti 7 hajar kuti 9 lakh 44
+1656. 3 kuti 80 lakh 66 hajar kuti 66 hajar
 1657. 5 kuti 40 kuti 27 lakh 5 hajar 22
-1658. 1 kuti 6 lakh 3 hajar 5 lakh 56 hajar
+1658. 1 kuti 6 lakh 3 hajar kuti 5 lakh 56 hajar
 1659. 3 kuti 80 hajar 10 kuti 8 hajar 9 shata 11
 1660. 3 kuti 30 lakh 26 hajar 1 shata 42 kuti 70 lakh 90
 1661. 6 kuti 2 lakh 44 hajar 9 shata 1 kuti 40 hajar 4 shata 3
 1662. 7 kuti 7 lakh 90 hajar 3 kuti 30 lakh 79 hajar
 1663. 2 kuti 30 hajar 9 shata 50 kuti 7 lakh 39 hajar 9 shata
 1664. 2 kuti 6 lakh 9 hajar 9 shata 31 kuti 10 lakh 8 shata 20
-1665. 3 kuti 32 lakh 90 hajar 3 lakh 63 hajar 40
+1665. 3 kuti 32 lakh 90 hajar kuti 3 lakh 63 hajar 40
 1666. 9 kuti 4 lakh 5 kuti 7 lakh 7 hajar 3 shata 10
 1667. 9 kuti 98 lakh 18 hajar 5 shata 2 kuti 70 lakh 89 hajar 8 shata 7
 1668. 7 kuti 30 lakh 31 kuti 60 lakh 40 hajar 6 shata 1
 1669. 3 kuti 10 lakh 18 hajar 5 shata 37 kuti 1 lakh 70 hajar 8 shata 7
 1670. 4 kuti 53 lakh 60 hajar 80 kuti 70 lakh 7 hajar 9 shata
 1671. 5 kuti 8 lakh 11 hajar 7 kuti 70 lakh 7 hajar 2 shata 90
-1672. 1 kuti 9 lakh 23 hajar 40 hajar 3 shata
+1672. 1 kuti 9 lakh 23 hajar kuti 40 hajar 3 shata
 1673. 3 kuti 30 lakh 1 hajar 23 kuti 3 lakh 40 hajar 1
-1674. 2 kuti 50 lakh 2 hajar 9 shata 99 lakh 80 hajar
+1674. 2 kuti 50 lakh 2 hajar 9 shata kuti 99 lakh 80 hajar
 1675. 3 kuti 1 lakh 80 hajar 10 kuti 8
 1676. 1 kuti 83 lakh 87 hajar 11 kuti 60 lakh 70 hajar 80
-1677. 8 kuti 20 lakh 17 hajar 90 hajar 2
-1678. 5 kuti 73 hajar 2 lakh 51 hajar 3 shata
+1677. 8 kuti 20 lakh 17 hajar kuti 90 hajar 2
+1678. 5 kuti 73 hajar kuti 2 lakh 51 hajar 3 shata
 1679. 4 kuti 90 lakh 3 hajar 2 shata 70 kuti 2 lakh 1 shata 10
 1680. 8 kuti 3 lakh 4 hajar 43 kuti 8 lakh 60 hajar 20
 1681. 6 kuti 20 lakh 70 hajar 4 kuti 8 lakh 84 hajar 75
-1682. 6 kuti 30 lakh 91 hajar 20 lakh 8 shata
+1682. 6 kuti 30 lakh 91 hajar kuti 20 lakh 8 shata
 1683. 6 kuti 60 lakh 95 kuti 22 lakh 5 hajar 3 shata 9
 1684. 5 kuti 5 lakh 9 hajar 80 kuti 76
 1685. 9 kuti 90 lakh 60 hajar 20 kuti 80 hajar 7 shata 4
 1686. 9 kuti 7 hajar 75 kuti 1 lakh 1 shata
-1687. 6 kuti 45 lakh 76 hajar 1 shata 30 lakh 54
-1688. 8 kuti 30 hajar 75 lakh 3 shata
-1689. 8 kuti 8 hajar 7 shata 42 hajar
+1687. 6 kuti 45 lakh 76 hajar 1 shata kuti 30 lakh 54
+1688. 8 kuti 30 hajar kuti 75 lakh 3 shata
+1689. 8 kuti 8 hajar 7 shata kuti 42 hajar
 1690. 4 kuti 80 kuti 56
 1691. 7 kuti 3 hajar 72 kuti 6 hajar 7 shata 4
 1692. 4 kuti 61 lakh 46 hajar 75 kuti 2 lakh 2
 1693. 3 kuti 6 lakh 50 hajar 50 kuti 90 lakh 70 hajar 85
-1694. 7 kuti
+1694. 7 kuti kuti
 1695. 9 kuti 30 lakh 3 shata 3 kuti 9 lakh 2 hajar 5 shata 27
-1696. 9 kuti 9 hajar 5 hajar 1 shata
+1696. 9 kuti 9 hajar kuti 5 hajar 1 shata
 1697. 1 kuti 5 lakh 9 hajar 5 shata 23 kuti 38 lakh 7 shata 12
 1698. 6 kuti 30 lakh 50 hajar 2 shata 93 kuti 60 lakh 90 hajar 6 shata 98
-1699. 6 kuti 90 hajar 2 shata 9 lakh 62 hajar 2 shata 20
+1699. 6 kuti 90 hajar 2 shata kuti 9 lakh 62 hajar 2 shata 20
 1700. 4 kuti 90 lakh 70 hajar 90 kuti 4 lakh 4 hajar
 1701. 4 kuti 79 lakh 12 kuti 96
 1702. 8 kuti 24 lakh 10 hajar 7 shata 71 kuti 18 hajar 5
 1703. 5 kuti 29 lakh 6 hajar 45 kuti 99
-1704. 8 kuti 25 lakh 30 hajar 30 lakh 5 hajar 6 shata 1
+1704. 8 kuti 25 lakh 30 hajar kuti 30 lakh 5 hajar 6 shata 1
 1705. 1 kuti 60 lakh 4 shata 83 kuti 30 lakh 6 shata 21
 1706. 4 kuti 86 lakh 8 hajar 6 shata 35 kuti 68 lakh 90 hajar 2 shata 31
 1707. 4 kuti 3 hajar 10 kuti 4 shata
@@ -1709,23 +1709,23 @@
 1709. 8 kuti 5 lakh 9 hajar 41 kuti 6 lakh 2 hajar
 1710. 8 kuti 50 lakh 7 hajar 7 shata 80 kuti 57 lakh 2
 1711. 2 kuti 80 lakh 6 shata 78 kuti 80 hajar 9 shata 82
-1712. 2 kuti 6 lakh 80 hajar 8 shata 6 lakh 50 hajar 3 shata 60
+1712. 2 kuti 6 lakh 80 hajar 8 shata kuti 6 lakh 50 hajar 3 shata 60
 1713. 7 kuti 4 lakh 40 hajar 8 shata 29 kuti 5 lakh 25
 1714. 7 kuti 8 lakh 30 kuti 77 lakh 20
 1715. 7 kuti 40 lakh 7 shata 2 kuti 20 hajar
 1716. 1 kuti 40 lakh 60 kuti 50 lakh
-1717. 3 kuti 70 lakh 14 hajar 5 shata 50 lakh 6 shata 12
+1717. 3 kuti 70 lakh 14 hajar 5 shata kuti 50 lakh 6 shata 12
 1718. 5 kuti 42 lakh 2 kuti 10 hajar 8 shata 4
-1719. 3 kuti 1 lakh 70 hajar 20 lakh 63 hajar
+1719. 3 kuti 1 lakh 70 hajar kuti 20 lakh 63 hajar
 1720. 3 kuti 1 lakh 9 hajar 2 shata 3 kuti 90 lakh 40
 1721. 8 kuti 20 lakh 5 shata 5 kuti 52 hajar 8
 1722. 7 kuti 10 lakh 40 kuti 80 lakh 20 hajar 1
 1723. 8 kuti 2 lakh 8 shata 1 kuti 91 lakh 1 shata 5
-1724. 7 kuti 84 lakh 70 hajar 10 hajar 40
+1724. 7 kuti 84 lakh 70 hajar kuti 10 hajar 40
 1725. 7 kuti 6 shata 93 kuti 60 lakh 10 hajar 6 shata 70
 1726. 6 kuti 1 lakh 10 hajar 6 kuti 20 lakh 5 hajar 7 shata
 1727. 7 kuti 40 lakh 30 hajar 20 kuti 4 hajar 7 shata 80
-1728. 4 kuti 30 lakh 46 lakh 4 hajar 6 shata
+1728. 4 kuti 30 lakh kuti 46 lakh 4 hajar 6 shata
 1729. 1 kuti 40 lakh 30 hajar 6 shata 9 kuti 59 lakh 90 hajar 3 shata 55
 1730. 4 kuti 70 lakh 30 kuti 80 lakh 90 hajar
 1731. 8 kuti 6 shata 87 kuti 10 lakh 4 hajar 2
@@ -1733,7 +1733,7 @@
 1733. 4 kuti 7 hajar 65 kuti 20 hajar 1 shata 90
 1734. 8 kuti 50 lakh 9 shata 25 kuti
 1735. 4 kuti 89 lakh 1 hajar 5 shata 78 kuti 30 lakh 30 hajar 7 shata 7
-1736. 8 kuti 3 lakh 52 hajar 4 shata 5 hajar 4 shata 40
+1736. 8 kuti 3 lakh 52 hajar 4 shata kuti 5 hajar 4 shata 40
 1737. 3 kuti 37 lakh 80 hajar 80 kuti 20 lakh 60 hajar 90
 1738. 2 kuti 5 lakh 9 hajar 68 kuti 6 lakh 60 hajar 9 shata
 1739. 6 kuti 90 lakh 30 hajar 25 kuti 60 lakh 3 hajar 7
@@ -1745,90 +1745,90 @@
 1745. 8 kuti 92 lakh 17 kuti 34 lakh 6 hajar 3 shata
 1746. 5 kuti 76 lakh 9 hajar 30 kuti 10 hajar 8 shata
 1747. 5 kuti 61 kuti 1 hajar 9 shata 7
-1748. 7 kuti 45 lakh 40 hajar 6 shata 55 hajar 1
+1748. 7 kuti 45 lakh 40 hajar 6 shata kuti 55 hajar 1
 1749. 8 kuti 23 lakh 44 hajar 3 shata 9 kuti 20 lakh 5 hajar 6 shata 8
 1750. 8 kuti 5 hajar 32 kuti 8 shata 78
 1751. 5 kuti 30 lakh 60 hajar 6 shata 30 kuti 20 hajar
-1752. 9 kuti 6 lakh 5 hajar 40 lakh 40 hajar 50
+1752. 9 kuti 6 lakh 5 hajar kuti 40 lakh 40 hajar 50
 1753. 1 kuti 8 lakh 32 kuti 60 hajar 42
-1754. 7 kuti 5 lakh 95 hajar 9 lakh 30 hajar 6 shata 4
+1754. 7 kuti 5 lakh 95 hajar kuti 9 lakh 30 hajar 6 shata 4
 1755. 6 kuti 8 hajar 40 kuti 60 lakh 99 hajar 8 shata
 1756. 6 kuti 95 lakh 64 hajar 40 kuti 56 lakh 5 hajar 80
-1757. 4 kuti 73 lakh 10 hajar 60 lakh 8
-1758. 9 kuti 40 lakh 30 lakh 3 shata 50
+1757. 4 kuti 73 lakh 10 hajar kuti 60 lakh 8
+1758. 9 kuti 40 lakh kuti 30 lakh 3 shata 50
 1759. 4 kuti 20 kuti 3 lakh 79 hajar 3 shata 35
 1760. 3 kuti 67 kuti 60
-1761. 8 kuti 12 hajar 2 shata 4 lakh 1
+1761. 8 kuti 12 hajar 2 shata kuti 4 lakh 1
 1762. 4 kuti 8 hajar 4 shata 90 kuti 7 lakh 20 hajar 73
 1763. 6 kuti 70 lakh 22 hajar 53 kuti 3 hajar 5 shata 4
 1764. 1 kuti 58 lakh 67 hajar 3 kuti 80 hajar
 1765. 4 kuti 40 lakh 2 shata 4 kuti 36 lakh 77 hajar 5 shata 31
-1766. 7 kuti 5 lakh 78 hajar 1 shata 8 hajar 8 shata 5
+1766. 7 kuti 5 lakh 78 hajar 1 shata kuti 8 hajar 8 shata 5
 1767. 5 kuti 70 lakh 30 hajar 80 kuti 3 lakh 7 hajar 56
-1768. 9 kuti 70 lakh 40 hajar 3 shata 78 lakh 36 hajar 9 shata 9
-1769. 1 kuti 12 lakh 2 hajar 70 lakh 37 hajar 40
+1768. 9 kuti 70 lakh 40 hajar 3 shata kuti 78 lakh 36 hajar 9 shata 9
+1769. 1 kuti 12 lakh 2 hajar kuti 70 lakh 37 hajar 40
 1770. 7 kuti 4 lakh 7 kuti 80 lakh 70 hajar 7
 1771. 8 kuti 73 hajar 97 kuti 3 lakh 66 hajar 60
 1772. 1 kuti 50 lakh 7 hajar 5 shata 50 kuti
-1773. 6 kuti 7 lakh 46 lakh 9
-1774. 1 kuti 49 lakh 5 shata 1 lakh 6 shata
-1775. 2 kuti 31 hajar 4 shata 2 shata
+1773. 6 kuti 7 lakh kuti 46 lakh 9
+1774. 1 kuti 49 lakh 5 shata kuti 1 lakh 6 shata
+1775. 2 kuti 31 hajar 4 shata kuti 2 shata
 1776. 2 kuti 80 lakh 2 shata 50 kuti 30 hajar 3
 1777. 7 kuti 4 lakh 54 hajar 3 shata 1 kuti 71 lakh 40
 1778. 2 kuti 6 lakh 36 hajar 3 kuti 5 lakh 1 hajar 4 shata
-1779. 3 kuti 5 lakh 57 hajar 1 shata 9 shata 14
+1779. 3 kuti 5 lakh 57 hajar 1 shata kuti 9 shata 14
 1780. 6 kuti 40 lakh 40 hajar 2 kuti 9 hajar 9 shata 26
-1781. 1 kuti 1 hajar 3 shata 30
+1781. 1 kuti 1 hajar 3 shata kuti 30
 1782. 3 kuti 28 lakh 70 kuti 80 lakh
 1783. 1 kuti 10 lakh 30 hajar 6 shata 32 kuti 38 hajar 9 shata 6
-1784. 1 kuti 90 lakh 96 hajar 80 lakh 3 hajar 3 shata
+1784. 1 kuti 90 lakh 96 hajar kuti 80 lakh 3 hajar 3 shata
 1785. 2 kuti 9 shata 1 kuti 26 hajar 20
 1786. 4 kuti 2 lakh 8 shata 10 kuti 51 lakh 1 shata 40
 1787. 2 kuti 86 lakh 90 hajar 10 kuti 1 lakh 70 hajar 9
 1788. 3 kuti 2 lakh 34 hajar 3 kuti 4 lakh 10 hajar 5 shata
 1789. 4 kuti 2 lakh 8 shata 17 kuti 2 lakh 1 hajar
 1790. 9 kuti 51 lakh 2 shata 3 kuti 30 lakh 60 hajar
-1791. 1 kuti 60 hajar 5 lakh 90 hajar
-1792. 5 kuti 8 lakh 25 lakh 80 hajar 4 shata 97
+1791. 1 kuti 60 hajar kuti 5 lakh 90 hajar
+1792. 5 kuti 8 lakh kuti 25 lakh 80 hajar 4 shata 97
 1793. 7 kuti 40 lakh 4 shata 2 kuti 9 lakh 30
 1794. 1 kuti 9 shata 49 kuti 22 lakh 6 hajar 8 shata 50
 1795. 5 kuti 1 hajar 8 shata 7 kuti 50 lakh 5 hajar 3
-1796. 3 kuti 10 lakh 91 hajar 3 lakh 3 hajar
-1797. 3 kuti 79 lakh 30 hajar 8 shata 4 lakh 2
+1796. 3 kuti 10 lakh 91 hajar kuti 3 lakh 3 hajar
+1797. 3 kuti 79 lakh 30 hajar 8 shata kuti 4 lakh 2
 1798. 7 kuti 6 lakh 70 hajar 7 kuti 8 lakh 34 hajar
 1799. 6 kuti 90 hajar 7 shata 62 kuti 60 lakh 1 hajar 9 shata
 1800. 9 kuti 30 hajar 17 kuti 83 lakh 50 hajar 5 shata
 1801. 3 kuti 6 lakh 24 kuti 10 lakh 54 hajar 6 shata
-1802. 7 kuti 9 lakh 60 hajar 8 hajar 1 shata 80
+1802. 7 kuti 9 lakh 60 hajar kuti 8 hajar 1 shata 80
 1803. 1 kuti 9 lakh 30 hajar 6 kuti 6 lakh 2 hajar 3 shata 13
-1804. 7 kuti 3 lakh 43 hajar 24 lakh 2 hajar 7
-1805. 3 kuti 25 lakh 61 hajar 70 lakh 93 hajar 20
+1804. 7 kuti 3 lakh 43 hajar kuti 24 lakh 2 hajar 7
+1805. 3 kuti 25 lakh 61 hajar kuti 70 lakh 93 hajar 20
 1806. 1 kuti 80 lakh 7 shata 5 kuti 9 lakh 6 shata 72
 1807. 1 kuti 88 lakh 29 hajar 8 shata 5 kuti 3 lakh 86 hajar
 1808. 3 kuti 87 hajar 70 kuti 8 lakh 6 hajar 48
-1809. 8 kuti 90 lakh 81 hajar 1 shata
+1809. 8 kuti 90 lakh 81 hajar 1 shata kuti
 1810. 6 kuti 1 hajar 8 shata 9 kuti 65 lakh 5 hajar 2 shata 10
 1811. 1 kuti 70 lakh 89 kuti 3 lakh 9 shata 70
 1812. 5 kuti 20 kuti 6 hajar
 1813. 4 kuti 90 lakh 40 hajar 1 shata 6 kuti 24 lakh 5 hajar 26
 1814. 7 kuti 9 lakh 16 hajar 60 kuti 82 lakh 9 shata 66
 1815. 1 kuti 9 kuti 80 lakh 74 hajar 3
-1816. 7 kuti 18 lakh 7 shata 47 lakh 4 shata 1
-1817. 3 kuti 70 hajar 55 hajar 1 shata 5
+1816. 7 kuti 18 lakh 7 shata kuti 47 lakh 4 shata 1
+1817. 3 kuti 70 hajar kuti 55 hajar 1 shata 5
 1818. 2 kuti 60 lakh 74 hajar 60 kuti 70 hajar 9
 1819. 3 kuti 3 lakh 96 hajar 3 kuti
-1820. 9 kuti 4 lakh 90 lakh
+1820. 9 kuti 4 lakh kuti 90 lakh
 1821. 9 kuti 3 lakh 81 hajar 2 kuti 32 lakh 3 hajar 10
 1822. 6 kuti 50 kuti 9 lakh 6 shata
 1823. 7 kuti 74 lakh 22 kuti 91 lakh 72 hajar 30
-1824. 1 kuti 68 lakh 4 shata 42 hajar 7 shata 20
+1824. 1 kuti 68 lakh 4 shata kuti 42 hajar 7 shata 20
 1825. 6 kuti 72 lakh 14 hajar 40 kuti 1 lakh 1 hajar
-1826. 1 kuti 45 lakh 40 hajar 6 shata 5 lakh 4
+1826. 1 kuti 45 lakh 40 hajar 6 shata kuti 5 lakh 4
 1827. 2 kuti 50 hajar 90 kuti 10 lakh 2 hajar 20
-1828. 4 kuti 30 hajar 1 shata 94
+1828. 4 kuti 30 hajar kuti 1 shata 94
 1829. 5 kuti 99 lakh 80 hajar 72 kuti 4 lakh 95 hajar 5 shata 57
 1830. 7 kuti 80 lakh 16 kuti
-1831. 4 kuti 4 lakh 41 lakh 50 hajar 20
+1831. 4 kuti 4 lakh kuti 41 lakh 50 hajar 20
 1832. 2 kuti 5 hajar 50 kuti 1 hajar 7 shata 40
 1833. 5 kuti 10 lakh 3 kuti 4 lakh 80 hajar 5 shata
 1834. 6 kuti 30 lakh 7 hajar 20 kuti 90
@@ -1836,119 +1836,119 @@
 1836. 4 kuti 21 hajar 57 kuti 15 lakh 84
 1837. 3 kuti 7 hajar 9 kuti 5 shata 62
 1838. 2 kuti 91 lakh 5 hajar 91 kuti 79 lakh 10 hajar 5
-1839. 6 kuti 2 lakh 2 hajar 40 lakh 8 hajar 2
+1839. 6 kuti 2 lakh 2 hajar kuti 40 lakh 8 hajar 2
 1840. 8 kuti 8 hajar 8 kuti 43 lakh 47 hajar
 1841. 3 kuti 71 lakh 40 hajar 33 kuti 49 lakh 5 shata 50
-1842. 1 kuti 6 lakh 3
+1842. 1 kuti kuti 6 lakh 3
 1843. 7 kuti 96 lakh 7 kuti 70 lakh 13 hajar 1 shata 50
 1844. 3 kuti 50 lakh 8 shata 46 kuti
-1845. 6 kuti 6 hajar 5 shata 30 lakh 1 hajar 5 shata 5
+1845. 6 kuti 6 hajar 5 shata kuti 30 lakh 1 hajar 5 shata 5
 1846. 5 kuti 7 hajar 8 shata 10 kuti 30 hajar 23
 1847. 2 kuti 9 lakh 20 hajar 7 shata 58 kuti 80 hajar 3 shata 13
-1848. 8 kuti 6 lakh 8 shata 57 hajar 4 shata
+1848. 8 kuti 6 lakh 8 shata kuti 57 hajar 4 shata
 1849. 9 kuti 30 lakh 7 kuti 64 lakh
-1850. 8 kuti 63 lakh 2 hajar 3 shata 37 lakh 9 hajar 7 shata
+1850. 8 kuti 63 lakh 2 hajar 3 shata kuti 37 lakh 9 hajar 7 shata
 1851. 3 kuti 63 lakh 6 hajar 88 kuti 41 lakh 90
 1852. 7 kuti 9 hajar 1 kuti 80 hajar 7 shata 2
-1853. 7 kuti 1 lakh 44 hajar 2 shata 8 lakh 21
+1853. 7 kuti 1 lakh 44 hajar 2 shata kuti 8 lakh 21
 1854. 2 kuti 50 hajar 30 kuti 10 hajar 9
-1855. 4 kuti 7 lakh 6 hajar 75 lakh 6 hajar 99
-1856. 7 kuti 23 lakh 88 hajar 60 hajar 5 shata 8
+1855. 4 kuti 7 lakh 6 hajar kuti 75 lakh 6 hajar 99
+1856. 7 kuti 23 lakh 88 hajar kuti 60 hajar 5 shata 8
 1857. 4 kuti 3 lakh 1 shata 30 kuti 60 lakh 6 shata 10
-1858. 9 kuti 2 shata 40 hajar 40
-1859. 7 kuti 9 lakh 4 hajar 1 shata 63
+1858. 9 kuti 2 shata kuti 40 hajar 40
+1859. 7 kuti kuti 9 lakh 4 hajar 1 shata 63
 1860. 3 kuti 3 lakh 10 hajar 3 kuti 1 hajar
 1861. 3 kuti 2 lakh 65 hajar 8 shata 80 kuti 9 shata
 1862. 1 kuti 50 lakh 93 hajar 32 kuti 16 lakh 24 hajar 1
 1863. 8 kuti 4 lakh 30 kuti 42 lakh 5 hajar 30
-1864. 9 kuti 80 lakh 6 hajar 4 shata 24 lakh 52 hajar 5
+1864. 9 kuti 80 lakh 6 hajar 4 shata kuti 24 lakh 52 hajar 5
 1865. 9 kuti 2 lakh 20 hajar 2 shata 59 kuti 89 lakh 3 hajar 80
-1866. 4 kuti 20 lakh 70 hajar 9 shata 50 hajar
-1867. 9 kuti 2 lakh 93 hajar 2 shata 80 lakh 81 hajar 7
-1868. 4 kuti 30 lakh 5 hajar 32 hajar
-1869. 2 kuti 90
+1866. 4 kuti 20 lakh 70 hajar 9 shata kuti 50 hajar
+1867. 9 kuti 2 lakh 93 hajar 2 shata kuti 80 lakh 81 hajar 7
+1868. 4 kuti 30 lakh 5 hajar kuti 32 hajar
+1869. 2 kuti kuti 90
 1870. 8 kuti 80 lakh 4 hajar 9 kuti 90 hajar
 1871. 3 kuti 3 lakh 19 kuti 8 lakh 16 hajar 1 shata 76
 1872. 8 kuti 4 hajar 8 shata 21 kuti 90 lakh
 1873. 3 kuti 1 lakh 84 hajar 4 kuti 70 lakh
 1874. 7 kuti 6 lakh 2 kuti 25 lakh 7 shata 53
-1875. 5 kuti 8 lakh 10 lakh
+1875. 5 kuti 8 lakh kuti 10 lakh
 1876. 9 kuti 2 lakh 1 hajar 68 kuti 69
 1877. 9 kuti 20 lakh 39 hajar 3 shata 10 kuti 2 lakh 8 hajar 6 shata
-1878. 3 kuti 48 lakh 35 hajar 3 shata 1 hajar 6 shata 64
+1878. 3 kuti 48 lakh 35 hajar 3 shata kuti 1 hajar 6 shata 64
 1879. 4 kuti 20 lakh 35 hajar 90 kuti 1 hajar 1 shata 57
 1880. 7 kuti 30 lakh 4 hajar 2 shata 3 kuti 77 lakh 2 shata 5
 1881. 9 kuti 6 hajar 10 kuti 60 hajar 8 shata
-1882. 4 kuti 91 lakh 60 hajar 90 hajar 2
+1882. 4 kuti 91 lakh 60 hajar kuti 90 hajar 2
 1883. 2 kuti 10 lakh 3 hajar 8 kuti 72 hajar 3 shata 52
 1884. 5 kuti 19 lakh 1 hajar 1 shata 88 kuti 8 hajar
 1885. 3 kuti 9 lakh 8 kuti 7 lakh 40 hajar 7 shata 9
 1886. 2 kuti 90 lakh 93 hajar 11 kuti 25 lakh 3 hajar 6 shata 3
-1887. 2 kuti 3 lakh 5 hajar 5 lakh 4 shata 50
+1887. 2 kuti 3 lakh 5 hajar kuti 5 lakh 4 shata 50
 1888. 1 kuti 58 hajar 2 shata 1 kuti 30 lakh 99 hajar 8 shata
 1889. 1 kuti 70 lakh 40 hajar 4 shata 85 kuti 40 lakh 80 hajar 4 shata
-1890. 7 kuti 10 lakh 13 hajar 4 shata 10 hajar
+1890. 7 kuti 10 lakh 13 hajar 4 shata kuti 10 hajar
 1891. 4 kuti 4 lakh 60 hajar 12 kuti 36 lakh 2 hajar 4
 1892. 9 kuti 67 lakh 3 shata 3 kuti 8 shata 2
 1893. 2 kuti 1 lakh 10 kuti 50 lakh 30 hajar 1 shata 90
 1894. 1 kuti 6 lakh 6 hajar 7 kuti 97 lakh 1 shata 49
 1895. 9 kuti 20 lakh 4 shata 60 kuti 20 lakh 7 hajar
-1896. 1 kuti 1 lakh 90 hajar 20 lakh 8 shata
+1896. 1 kuti 1 lakh 90 hajar kuti 20 lakh 8 shata
 1897. 6 kuti 1 lakh 7 shata 80 kuti 24 lakh 30 hajar 80
 1898. 6 kuti 20 kuti 57 lakh 8 hajar 20
 1899. 4 kuti 67 lakh 80 hajar 4 kuti 45 lakh 17 hajar 5 shata 80
 1900. 1 kuti 41 lakh 70 kuti 55 lakh 33 hajar
-1901. 2 kuti 87 lakh 4 hajar 60 lakh 8 hajar 2 shata
-1902. 7 kuti 69 lakh 9 hajar 6 shata 30 lakh 10
+1901. 2 kuti 87 lakh 4 hajar kuti 60 lakh 8 hajar 2 shata
+1902. 7 kuti 69 lakh 9 hajar 6 shata kuti 30 lakh 10
 1903. 8 kuti 30 lakh 4 hajar 69 kuti 80 hajar
 1904. 8 kuti 20 hajar 4 shata 49 kuti 70 lakh 30 hajar 7
 1905. 2 kuti 6 lakh 23 kuti 83 lakh 8 shata 7
-1906. 1 kuti 9 hajar
-1907. 5 kuti 10 lakh 40 hajar 4 shata 30 hajar 90
+1906. 1 kuti kuti 9 hajar
+1907. 5 kuti 10 lakh 40 hajar 4 shata kuti 30 hajar 90
 1908. 6 kuti 90 lakh 4 shata 40 kuti 93 hajar 8 shata 70
-1909. 1 kuti 1 lakh 67 hajar 4 shata 1 lakh 50 hajar 30
+1909. 1 kuti 1 lakh 67 hajar 4 shata kuti 1 lakh 50 hajar 30
 1910. 2 kuti 2 lakh 20 kuti 7 shata
 1911. 7 kuti 71 hajar 6 kuti 4 lakh 30 hajar 60
 1912. 7 kuti 5 lakh 5 hajar 9 shata 70 kuti 60 lakh 7 shata 40
 1913. 3 kuti 8 hajar 2 kuti 90 lakh 1 hajar 6 shata
 1914. 2 kuti 90 hajar 9 kuti 80 hajar 80
 1915. 1 kuti 70 lakh 2 hajar 7 shata 75 kuti 9 hajar 3 shata
-1916. 8 kuti 83 lakh 1 hajar 6 shata 88 lakh 2 shata
+1916. 8 kuti 83 lakh 1 hajar 6 shata kuti 88 lakh 2 shata
 1917. 6 kuti 7 lakh 51 hajar 8 shata 5 kuti 10 lakh 91 hajar
 1918. 6 kuti 4 lakh 1 shata 8 kuti 1 hajar 8 shata 54
 1919. 4 kuti 4 lakh 89 hajar 1 shata 3 kuti 4 lakh 2 shata 50
 1920. 9 kuti 3 lakh 6 kuti 5 lakh 9 shata 87
-1921. 3 kuti 13 lakh 81 hajar 4 shata 31 lakh 8
+1921. 3 kuti 13 lakh 81 hajar 4 shata kuti 31 lakh 8
 1922. 4 kuti 80 lakh 21 hajar 4 shata 26 kuti 36 lakh 24 hajar 73
 1923. 1 kuti 90 lakh 20 hajar 56 kuti 4 lakh 2 hajar
 1924. 3 kuti 30 hajar 3 shata 7 kuti 20 hajar 8
-1925. 8 kuti 40 lakh 30 hajar 5 shata 1 lakh 8 hajar
-1926. 6 kuti 10 lakh 80 lakh
-1927. 3 kuti 41 lakh 9 hajar 61 lakh 3 shata 4
+1925. 8 kuti 40 lakh 30 hajar 5 shata kuti 1 lakh 8 hajar
+1926. 6 kuti 10 lakh kuti 80 lakh
+1927. 3 kuti 41 lakh 9 hajar kuti 61 lakh 3 shata 4
 1928. 7 kuti 8 shata 13 kuti 45 lakh 3 shata 1
-1929. 5 kuti 4 lakh 73 lakh 6 hajar 6 shata 2
+1929. 5 kuti 4 lakh kuti 73 lakh 6 hajar 6 shata 2
 1930. 2 kuti 50 lakh 23 hajar 7 shata 80 kuti 70 lakh 7
 1931. 1 kuti 30 lakh 40 hajar 9 shata 1 kuti 80 lakh 5 hajar 61
-1932. 9 kuti 9 lakh 2 shata 61
+1932. 9 kuti 9 lakh kuti 2 shata 61
 1933. 8 kuti 10 lakh 80 hajar 14 kuti 20 lakh 3 hajar 3
 1934. 6 kuti 80 hajar 1 shata 4 kuti 2 lakh 50 hajar 50
 1935. 6 kuti 33 lakh 69 hajar 80 kuti 66 lakh 44 hajar 90
-1936. 3 kuti 25 lakh 5 hajar 7 shata 70 hajar 4 shata
+1936. 3 kuti 25 lakh 5 hajar 7 shata kuti 70 hajar 4 shata
 1937. 9 kuti 50 hajar 2 kuti 6 lakh 2 shata 1
-1938. 4 kuti 7 lakh 4 shata 2 lakh 40 hajar 68
+1938. 4 kuti 7 lakh 4 shata kuti 2 lakh 40 hajar 68
 1939. 3 kuti 70 lakh 90 hajar 5 kuti 88 hajar 2 shata
-1940. 9 kuti 80 hajar 6 shata 90 lakh 25
-1941. 8 kuti 30 hajar 5 shata 72 hajar 9 shata 1
+1940. 9 kuti 80 hajar 6 shata kuti 90 lakh 25
+1941. 8 kuti 30 hajar 5 shata kuti 72 hajar 9 shata 1
 1942. 5 kuti 42 lakh 2 shata 54 kuti 30 lakh 20 hajar 1
 1943. 4 kuti 3 lakh 50 hajar 8 kuti 3 lakh 40 hajar
 1944. 1 kuti 30 hajar 8 kuti 90 lakh 40 hajar 4 shata
-1945. 8 kuti 6 lakh 73 hajar 3 shata 48 lakh
-1946. 1 kuti 6 lakh 2 hajar 3 lakh 8
+1945. 8 kuti 6 lakh 73 hajar 3 shata kuti 48 lakh
+1946. 1 kuti 6 lakh 2 hajar kuti 3 lakh 8
 1947. 4 kuti 38 lakh 10 kuti 5 lakh
 1948. 3 kuti 80 lakh 85 hajar 3 shata 40 kuti 4 hajar 2 shata
 1949. 2 kuti 6 shata 50 kuti 30 lakh 20 hajar 6 shata 3
 1950. 5 kuti 3 lakh 50 hajar 60 kuti 42 hajar 6
-1951. 6 kuti 1 lakh 2 hajar 21 lakh 12 hajar 90
+1951. 6 kuti 1 lakh 2 hajar kuti 21 lakh 12 hajar 90
 1952. 1 kuti 99 hajar 35 kuti 90 lakh 66 hajar 7 shata 90
 1953. 5 kuti 65 hajar 1 shata 80 kuti 7 lakh 28 hajar 7 shata
 1954. 8 kuti 8 hajar 6 shata 60 kuti 44 lakh 40 hajar 40
@@ -1956,27 +1956,27 @@
 1956. 4 kuti 8 shata 3 kuti 8 lakh 7 shata 27
 1957. 5 kuti 5 hajar 1 kuti 6
 1958. 6 kuti 50 lakh 80 hajar 4 shata 20 kuti 1 hajar 1
-1959. 2 kuti 9 lakh 50 hajar 1 shata 66 lakh 69 hajar 8 shata 30
+1959. 2 kuti 9 lakh 50 hajar 1 shata kuti 66 lakh 69 hajar 8 shata 30
 1960. 8 kuti 9 lakh 1 shata 47 kuti 90
 1961. 4 kuti 8 lakh 92 hajar 40 kuti 4 lakh 53 hajar 10
 1962. 3 kuti 68 lakh 90 kuti 9 hajar
-1963. 6 kuti 5 lakh 20 hajar 90
+1963. 6 kuti kuti 5 lakh 20 hajar 90
 1964. 8 kuti 97 lakh 72 hajar 46 kuti 7 shata 70
 1965. 3 kuti 20 lakh 6 hajar 9 shata 90 kuti 90
 1966. 7 kuti 80 kuti 9 lakh 6 shata 7
-1967. 2 kuti 43 hajar 1 lakh 3 hajar
-1968. 5 kuti 2 lakh 11 hajar 3 lakh 1
-1969. 6 kuti 46 hajar 9 shata 90 lakh 5 hajar
+1967. 2 kuti 43 hajar kuti 1 lakh 3 hajar
+1968. 5 kuti 2 lakh 11 hajar kuti 3 lakh 1
+1969. 6 kuti 46 hajar 9 shata kuti 90 lakh 5 hajar
 1970. 7 kuti 40 hajar 4 kuti 60 lakh 80 hajar
-1971. 3 kuti 3 shata 7 lakh 30 hajar 20
+1971. 3 kuti 3 shata kuti 7 lakh 30 hajar 20
 1972. 2 kuti 53 lakh 19 hajar 2 shata 50 kuti 29 lakh 1 shata 90
-1973. 1 kuti 40 lakh 30 hajar 9 shata 4 lakh 77 hajar 5 shata
+1973. 1 kuti 40 lakh 30 hajar 9 shata kuti 4 lakh 77 hajar 5 shata
 1974. 7 kuti 60 lakh 9 kuti 90 lakh 6 hajar 9 shata
-1975. 4 kuti 1 lakh 60 lakh 6
+1975. 4 kuti 1 lakh kuti 60 lakh 6
 1976. 9 kuti 70 lakh 50 hajar 5 shata 9 kuti 66 lakh 5
 1977. 5 kuti 60 hajar 40 kuti 50 hajar 3 shata 30
 1978. 9 kuti 70 kuti 62
-1979. 9 kuti 6 lakh 55 hajar 27 lakh 10 hajar 20
+1979. 9 kuti 6 lakh 55 hajar kuti 27 lakh 10 hajar 20
 1980. 9 kuti 9 hajar 74 kuti 9 lakh 8 shata 29
 1981. 5 kuti 20 lakh 3 hajar 40 kuti 2 hajar 4
 1982. 8 kuti 30 lakh 40 hajar 6 shata 16 kuti 49
@@ -1986,26 +1986,26 @@
 1986. 3 kuti 31 hajar 7 shata 1 kuti 40 hajar 70
 1987. 3 kuti 3 lakh 90 hajar 5 kuti 9 hajar 6 shata
 1988. 4 kuti 46 lakh 4 kuti 5 hajar 60
-1989. 1 kuti 46 lakh 83 hajar 82 lakh 10 hajar 7 shata
-1990. 4 kuti 12 lakh 40 hajar 2 shata 70 lakh 7 hajar 8 shata 43
+1989. 1 kuti 46 lakh 83 hajar kuti 82 lakh 10 hajar 7 shata
+1990. 4 kuti 12 lakh 40 hajar 2 shata kuti 70 lakh 7 hajar 8 shata 43
 1991. 1 kuti 8 lakh 3 shata 20 kuti 30 lakh 40 hajar 2 shata
-1992. 6 kuti 32 lakh 13 hajar 16 lakh 60 hajar 1 shata 32
-1993. 3 kuti 41 lakh 7 lakh 4 hajar 78
+1992. 6 kuti 32 lakh 13 hajar kuti 16 lakh 60 hajar 1 shata 32
+1993. 3 kuti 41 lakh kuti 7 lakh 4 hajar 78
 1994. 1 kuti 56 lakh 9 shata 47 kuti 43 hajar
-1995. 4 kuti 70 hajar 80
-1996. 1 kuti 59 lakh 40 hajar 7 shata
-1997. 3 kuti 20 lakh 4 shata 80 lakh 1 hajar 7 shata 25
+1995. 4 kuti 70 hajar kuti 80
+1996. 1 kuti 59 lakh kuti 40 hajar 7 shata
+1997. 3 kuti 20 lakh 4 shata kuti 80 lakh 1 hajar 7 shata 25
 1998. 9 kuti 9 lakh 67 hajar 80 kuti 47 hajar 87
 1999. 2 kuti 1 lakh 7 hajar 1 shata 2 kuti 9 shata 91
 2000. 8 kuti 83 lakh 20 hajar 16 kuti 7 hajar 1
 2001. 8 kuti 3 hajar 1 shata 20 kuti 72 hajar 40
-2002. 7 kuti 4 lakh 6 hajar 6 shata 78 hajar 2 shata 7
+2002. 7 kuti 4 lakh 6 hajar 6 shata kuti 78 hajar 2 shata 7
 2003. 6 kuti 54 lakh 13 hajar 7 shata 28 kuti 38 lakh 10 hajar 1 shata
 2004. 8 kuti 3 lakh 7 hajar 9 shata 46 kuti 4 lakh 6 hajar
-2005. 5 kuti 1 shata 10 lakh 1 shata 60
+2005. 5 kuti 1 shata kuti 10 lakh 1 shata 60
 2006. 8 kuti 93 hajar 60 kuti 80 hajar 6 shata 10
-2007. 7 kuti 6 lakh 2 shata 3 lakh 25 hajar 6 shata
-2008. 3 kuti 5 hajar 50 lakh 8 hajar
+2007. 7 kuti 6 lakh 2 shata kuti 3 lakh 25 hajar 6 shata
+2008. 3 kuti 5 hajar kuti 50 lakh 8 hajar
 2009. 8 kuti 8 lakh 58 hajar 80 kuti 4 shata 50
 2010. 3 kuti 3 lakh 60 hajar 2 shata 20 kuti 10 lakh 5 shata 2
 2011. 8 kuti 70 hajar 2 shata 10 kuti 63 lakh 5 hajar 87
@@ -2015,17 +2015,17 @@
 2015. 4 kuti 4 lakh 9 hajar 9 kuti 71 lakh 6 hajar 8 shata 6
 2016. 6 kuti 80 hajar 3 kuti 30
 2017. 5 kuti 10 lakh 93 hajar 6 shata 7 kuti 6 shata 40
-2018. 5 kuti 7 lakh 25 hajar 1 shata 71 lakh 6 hajar
-2019. 1 kuti 10 hajar 7 lakh 62
+2018. 5 kuti 7 lakh 25 hajar 1 shata kuti 71 lakh 6 hajar
+2019. 1 kuti 10 hajar kuti 7 lakh 62
 2020. 1 kuti 7 kuti 10 lakh 7 shata 35
-2021. 7 kuti 40 hajar 6 shata 9 lakh 10 hajar 2
+2021. 7 kuti 40 hajar 6 shata kuti 9 lakh 10 hajar 2
 2022. 6 kuti 16 hajar 4 kuti 92 lakh 70 hajar 50
 2023. 9 kuti 90 lakh 9 hajar 3 kuti 9 lakh 10 hajar 90
-2024. 9 kuti 6 lakh 9 hajar 6 lakh 30 hajar 6 shata
-2025. 9 kuti 93 hajar 40 lakh 80 hajar
-2026. 8 kuti 54 lakh 17 hajar 20 lakh 67
-2027. 9 kuti 90 lakh 81 hajar 30 hajar 2 shata 20
-2028. 5 kuti 5 shata 81 lakh 70 hajar 4 shata 50
+2024. 9 kuti 6 lakh 9 hajar kuti 6 lakh 30 hajar 6 shata
+2025. 9 kuti 93 hajar kuti 40 lakh 80 hajar
+2026. 8 kuti 54 lakh 17 hajar kuti 20 lakh 67
+2027. 9 kuti 90 lakh 81 hajar kuti 30 hajar 2 shata 20
+2028. 5 kuti 5 shata kuti 81 lakh 70 hajar 4 shata 50
 2029. 7 kuti 7 hajar 50 kuti 50 lakh 82
 2030. 9 kuti 3 hajar 56 kuti 1 lakh 7 hajar 5 shata 3
 2031. 4 kuti 9 lakh 3 hajar 3 shata 94 kuti 10 lakh 70 hajar 2
@@ -2034,7 +2034,7 @@
 2034. 7 kuti 60 lakh 20 hajar 91 kuti 6 hajar 40
 2035. 9 kuti 2 lakh 76 hajar 4 shata 2 kuti 4 lakh 97 hajar 7 shata 12
 2036. 6 kuti 5 lakh 5 kuti 40 lakh 5 shata 10
-2037. 9 kuti 80 lakh 50 hajar 3 lakh 95 hajar 4
+2037. 9 kuti 80 lakh 50 hajar kuti 3 lakh 95 hajar 4
 2038. 7 kuti 43 lakh 4 hajar 60 kuti 80 hajar 7 shata 20
 2039. 2 kuti 30 lakh 20 hajar 6 shata 80 kuti 36 lakh 6 shata 70
 2040. 6 kuti 9 lakh 2 shata 30 kuti 52 lakh 27 hajar 6 shata 5
@@ -2046,15 +2046,15 @@
 2046. 6 kuti 3 lakh 5 hajar 9 shata 62 kuti 2 hajar
 2047. 4 kuti 6 lakh 73 kuti 8 lakh 2 shata 82
 2048. 8 kuti 20 lakh 40 hajar 7 shata 10 kuti 80 hajar 8
-2049. 6 kuti 46 lakh 25 hajar 9 lakh 10 hajar 10
-2050. 5 kuti 50 lakh 1 shata 18 hajar
+2049. 6 kuti 46 lakh 25 hajar kuti 9 lakh 10 hajar 10
+2050. 5 kuti 50 lakh 1 shata kuti 18 hajar
 2051. 5 kuti 75 lakh 5 hajar 6 shata 10 kuti 77 lakh 31 hajar 3 shata 6
-2052. 5 kuti 80 hajar 7 shata 73 lakh 4 hajar 4 shata
+2052. 5 kuti 80 hajar 7 shata kuti 73 lakh 4 hajar 4 shata
 2053. 3 kuti 9 lakh 4 hajar 7 shata 55 kuti 8 lakh 6 hajar 2 shata
 2054. 2 kuti 55 hajar 5 shata 7 kuti 90 lakh 63 hajar 9 shata 85
 2055. 1 kuti 30 lakh 8 shata 62 kuti 70 lakh 1 hajar 8 shata
-2056. 3 kuti 16 lakh 70 hajar
+2056. 3 kuti 16 lakh kuti 70 hajar
 2057. 7 kuti 25 lakh 7 kuti 5 lakh 20 hajar 9 shata 70
-2058. 5 kuti 20 lakh 37 hajar 1 shata 8 lakh 70 hajar 6 shata 80
-2059. 6 kuti 31 lakh 2 hajar 6 shata 93 hajar 1 shata 60
+2058. 5 kuti 20 lakh 37 hajar 1 shata kuti 8 lakh 70 hajar 6 shata 80
+2059. 6 kuti 31 lakh 2 hajar 6 shata kuti 93 hajar 1 shata 60
 2060. 9 kuti 99 lakh 99 hajar 9 shata 99 kuti 99 lakh 99 hajar 9 shata 99

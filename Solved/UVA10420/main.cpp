@@ -1,41 +1,42 @@
 #include <iostream>
-#include <unordered_map>
+#include <map>
 #include <unordered_set>
+
 using namespace std;
-/*
-Test case
-3
-Spain Donna Elvira
-England Jane Doe
-Spain Donna Anna
 
-
-Sample Output
-England 1
-Spain 2
-
-*/
 int main(){
-    int lines;
-    cin >> lines; 
-    
-    unordered_map<string, int> myMap;
-    for (int i = 0; i < lines; ++i){
-        string location;
-        cin >> location;
-        string firstname, lastname;
-        cin >> firstname;
-        cin >> lastname;
+    int n = 0;
+    cin >> n;
+    cin.ignore();
+    string location;
+    map<string, unordered_set<string>> myMap;
 
-        if (myMap.find(location)!= myMap.end()){
-           myMap[location] = myMap[location] + 1;
+    for (int i = 0; i < n; ++i) {
+        char * myLine;
+        cin >> location;
+        string name; 
+        getline(cin, name);
+        
+        if (myMap.find(location) != myMap.end()){
+            // found country 
+            if (myMap[location].find(name) == myMap[location].end()){
+                //look for name and not found
+                myMap[location].insert(name);
+            }
         } 
-        else {
-            myMap.insert(pair<string, pair<int, unordered_set<string>>(location, pair<int,unordered_set<string>>(firstname.append(" " + lastname))));
+        else{
+            unordered_set<string> newSet;
+            newSet.insert(name);
+            
+            myMap.insert(pair<string, unordered_set<string>>(location, newSet)); 
         }
+        
+
     }
-    for (auto i: myMap){
-        cout << i.first << " " << i.second << endl;
+    
+    for (auto i = myMap.begin(); i != myMap.end(); ++i){
+        cout << i->first << " " << i->second.size() << endl; 
     }
+    
     return 0;
 }
