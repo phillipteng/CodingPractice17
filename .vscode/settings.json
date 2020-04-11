@@ -4,6 +4,7 @@
         "utility": "cpp",
         "unordered_set": "cpp",
         "iostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "unordered_map": "cpp"
     }
 }
