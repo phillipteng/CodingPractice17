@@ -1,0 +1,7 @@
+<shift>+P
+3:34 A
+4:01 <shift>+I, and <shift>+A
+4:21 /,  N, and <shift>+N
+5:01 * and #
+
+

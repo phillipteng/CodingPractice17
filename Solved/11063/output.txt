@@ -1,0 +1,2 @@
+Case #1: It is not a B2-Sequence.
+
